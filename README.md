@@ -6,7 +6,7 @@ Informações sobre o curso acesse [aqui](https://www.fiap.com.br/live/mba/mba-e
 
 Este repositório reúne todos os notebooks, imagens, modelos e demais materiais necessário para a condução das aulas e revisão das mesmas.
 
-## Cognitive Plaforms
+## Cognitive Platforms
 
 Nas aulas podemos utilizar o Google Colab, os Notebooks do Kaggle ou a própria distribuição local Anaconda, com uso do Jupyter Notebook, que há vem instalado nesta distribuição. Você também pode usar até mesmo o VSCode, escolha o ambiente que mais adeque ao seu estilo!
 
@@ -54,7 +54,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-plataforma-aws-azure/aula-2-plataforma-aws-azure.ipynb) 
 
-### Desafios
+### Desafio
 
 1. Employee attrition
 
@@ -76,13 +76,13 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/aula-3-plataforma-azure-openai-langchain.ipynb) 
 
 
-### Desafios
+### Desafio
 
 1. Análise de Avaliações
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/desafio-1/aula-3-desafio-1-solucao.ipynb)
 
-## Plataforma OpenAI com Langchain
+## Plataforma OpenAI com Langchain (Aula 4)
 
 1. Memória
 2. Encadeamento
@@ -91,7 +91,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/aula-4-plataforma-openai-langchain.ipynb) 
 
-### Desafios
+### Desafio
 
 1. Agente autônomo para dados médicos
 
