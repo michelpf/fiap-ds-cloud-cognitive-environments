@@ -50,7 +50,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 1. Language Service
 2. Content Safety
-3. Amazon Machine Learning Studio
+3. Azure Machine Learning Studio
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-plataforma-aws-azure/aula-2-plataforma-aws-azure.ipynb) 
 
@@ -64,14 +64,8 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 ### Plataforma Azure
 
-1. Personalizer
+1. Azure Machine Learning Studio
 2. Custom Vision AI
-
-### Plataforma OpenAI com Langchain
-
-1. Introdução a OpenAI
-2. Introdução a Langchain
-2. Templates de Prompt
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/aula-3-plataforma-azure-openai-langchain.ipynb) 
 
@@ -81,6 +75,12 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 1. Análise de Avaliações
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/desafio-1/aula-3-desafio-1-solucao.ipynb)
+
+### Plataforma OpenAI com Langchain
+
+1. Introdução a OpenAI
+2. Introdução a Langchain
+2. Templates de Prompt
 
 ## Plataforma OpenAI com Langchain (Aula 4)
 
