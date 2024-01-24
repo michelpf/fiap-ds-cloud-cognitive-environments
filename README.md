@@ -70,30 +70,25 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/aula-3-plataforma-azure-openai-langchain.ipynb) 
 
 
-### Desafio
-
-1. Análise de Avaliações
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/desafio-1/aula-3-desafio-1-solucao.ipynb)
-
-### Plataforma OpenAI com Langchain
+## Plataforma OpenAI com Langchain (Aula 4)
 
 1. Introdução a OpenAI
 2. Introdução a Langchain
-2. Templates de Prompt
-
-## Plataforma OpenAI com Langchain (Aula 4)
-
-1. Memória
-2. Encadeamento
-3. Dados externos
-4. Agentes
+3. Templates de Prompt
+4. Memória
+5. Encadeamento
+6. Dados externos
+7. Agentes
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/aula-4-plataforma-openai-langchain.ipynb) 
 
 ### Desafio
 
-1. Agente autônomo para dados médicos
+1. Análise de Avaliações
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
+
+2. Agente autônomo para dados médicos
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
 
