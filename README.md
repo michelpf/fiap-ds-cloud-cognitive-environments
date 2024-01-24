@@ -86,7 +86,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 1. Análise de Avaliações
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/desafio-1/aula-3-desafio-1-solucao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
 
 2. Agente autônomo para dados médicos
 
