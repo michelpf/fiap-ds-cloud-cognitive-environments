@@ -39,18 +39,13 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-1-plataforma-aws/desafio-1/aula-1-desafio-1-solucao.ipynb)
 
 
-## Plataforma AWS e Azure (Aula 2)
-
-### Plataforma AWS
+## Imagem, áudio e transcrição (Aula 2)
 
 1. Amazon Polly
 2. Amazon Transcribe
+3. Amazon Rekognition Custom Labels
+4. Amazon Rekognition Imagem Moderation
 
-### Plataforma Azure
-
-1. Language Service
-2. Content Safety
-3. Azure Machine Learning Studio
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-plataforma-aws-azure/aula-2-plataforma-aws-azure.ipynb) 
 
@@ -60,25 +55,22 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-plataforma-aws-azure/desafio-1/aula-2-desafio-1-solucao.ipynb)
 
-## Plataforma Azure e OpenAI com Langchain (Aula 3)
+## LLMs com AWS e OpenAI (Aula 3)
 
-### Plataforma Azure
-
-1. Azure Machine Learning Studio
-2. Custom Vision AI
+1. Amazon Bedrock
+2. Introdução a OpenAI
+3. Introdução a Langchain
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/aula-3-plataforma-azure-openai-langchain.ipynb) 
 
 
-## Plataforma OpenAI com Langchain (Aula 4)
+## LLMs com Langchain (Aula 4)
 
-1. Introdução a OpenAI
-2. Introdução a Langchain
-3. Templates de Prompt
-4. Memória
-5. Encadeamento
-6. Dados externos
-7. Agentes
+1. Templates de Prompt
+2. Memória
+3. Encadeamento
+4. Dados externos
+5. Agentes
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/aula-4-plataforma-openai-langchain.ipynb) 
 
