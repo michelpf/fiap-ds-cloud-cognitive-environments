@@ -15,7 +15,7 @@ Para instalar o Anaconda, acesse a sessão de [Downloads](https://www.anaconda.c
 Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://www.kaggle.com/) podem ser acessados diretamente dos respectivos sites.
 
 
-## Introdução a plataformas congitivas e AWS (Aula 1)
+## Aula 1: Introdução a plataformas congitivas e AWS
 
 1. Tipos de plataformas cognitivas
 2. Quando utilizar e casos de uso mais comum
@@ -39,7 +39,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-1-plataforma-aws/desafio-1/aula-1-desafio-1-solucao.ipynb)
 
 
-## Imagem, áudio e transcrição (Aula 2)
+## Aula 2: Imagem, áudio e transcrição
 
 1. Amazon Polly
 2. Amazon Transcribe
@@ -55,7 +55,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-plataforma-aws-azure/desafio-1/aula-2-desafio-1-solucao.ipynb)
 
-## LLMs com AWS e OpenAI (Aula 3)
+## Aula 3: LLMs com AWS e OpenAI
 
 1. Amazon Bedrock
 2. Introdução a OpenAI
@@ -64,7 +64,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/aula-3-plataforma-azure-openai-langchain.ipynb) 
 
 
-## LLMs com Langchain (Aula 4)
+## Aula 4: LLMs com Langchain
 
 1. Templates de Prompt
 2. Memória
