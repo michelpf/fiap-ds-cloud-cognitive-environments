@@ -1,0 +1,6212 @@
+0
+00:00:00,680 --> 00:00:02,700
+as cidades não conseguem operar mais com
+
+1
+00:00:02,710 --> 00:00:04,690
+a estrutura de armazenagem que tinha antigamente.
+
+2
+00:00:04,699 --> 00:00:10,289
+A maneira de consumir o consumo online trouxe o número de entregas o consumo.
+
+3
+00:00:10,300 --> 00:00:14,130
+O consumo se fracionou de tal forma que as vias arteriais da cidade tem.
+
+4
+00:00:14,140 --> 00:00:17,969
+A cidade se locomovendo como uma matriz de artérias, necessariamente,
+
+5
+00:00:17,979 --> 00:00:20,010
+tem que ter uma mudança de uso, ter mobilidade.
+
+6
+00:00:20,020 --> 00:00:22,729
+As pessoas tem que morar sim, mais densas e mais perto, né?
+
+7
+00:00:22,739 --> 00:00:26,270
+E as ruas tem que começar a dar espaço pra mudar de entrega.
+
+8
+00:00:00,689 --> 00:00:02,700
+as cidades não conseguem operar mais com
+
+9
+00:00:02,710 --> 00:00:04,699
+a estrutura de armazenagem que tinha antigamente.
+
+10
+00:00:04,710 --> 00:00:10,220
+A maneira de consumir o consumo online trouxe o número de entregas o consumo.
+
+11
+00:00:10,229 --> 00:00:14,020
+O consumo se fracionou de tal forma que as vias arteriais da cidade,
+
+12
+00:00:14,029 --> 00:00:16,780
+a cidade se locomovendo como uma matriz de artérias.
+
+13
+00:00:16,790 --> 00:00:20,020
+Necessariamente, tem que ter uma mudança de uso, ter mobilidade.
+
+14
+00:00:20,030 --> 00:00:22,739
+As pessoas tem que morar sim, mais densas e mais perto, né?
+
+15
+00:00:22,750 --> 00:00:26,280
+E as ruas tem que começar a dar espaço pra mudar de entrega.
+
+16
+00:00:31,879 --> 00:00:33,369
+-- Eu sou o Paulo Eu sou o Paulo Silveira, eu sou o Rodrigo Dantas
+-- Silveira,
+
+17
+00:00:33,380 --> 00:00:35,130
+-- eu sou
+-- o Rodrigo Dantas
+
+18
+00:00:35,139 --> 00:00:36,669
+-- e esse é e esse é o
+-- o
+
+19
+00:00:45,200 --> 00:00:47,110
+o
+
+20
+00:00:54,930 --> 00:00:55,860
+Oi, eu sou o Paulo Silveira,
+
+21
+00:00:55,869 --> 00:00:57,860
+sou social da Alura e estamos aqui mais um
+
+22
+00:00:57,869 --> 00:01:00,779
+episódio da décima primeira temporada do Like Boss.
+
+23
+00:01:00,790 --> 00:01:02,340
+Não é isso? Dantas isso aí.
+
+24
+00:01:02,349 --> 00:01:06,720
+Chegamos em onze temporadas e e assim convidados bem
+
+25
+00:01:06,730 --> 00:01:09,540
+diferentes e muito legais também nessa temporada aqui.
+
+26
+00:01:09,550 --> 00:01:12,779
+E o interessante é que os tem recados muito parecidos e o nosso s
+
+27
+00:01:12,790 --> 00:01:16,180
+de hoje é o Tiago da Good Storage e pra gente começar Thiago,
+
+28
+00:01:16,190 --> 00:01:18,459
+eu queria que você contasse um pouco, que dor que você encontrou,
+
+29
+00:01:18,470 --> 00:01:21,139
+qual que foi o motivo que que apareceu cê falou pera,
+
+30
+00:01:21,150 --> 00:01:24,680
+aí eu vou atacar esse problema e como que evolui um pouquinho o seu produto?
+
+31
+00:00:54,939 --> 00:00:55,869
+Oi, eu sou o Paulo Silveira,
+
+32
+00:00:55,880 --> 00:00:57,869
+sou social da Alura e estamos aqui mais um
+
+33
+00:00:57,880 --> 00:01:00,750
+episódio da décima primeira temporada do Like Boss.
+
+34
+00:01:00,759 --> 00:01:02,349
+Não é isso? Dantas isso aí.
+
+35
+00:01:02,360 --> 00:01:06,730
+Chegamos em onze temporadas E e assim convidados bem
+
+36
+00:01:06,739 --> 00:01:09,529
+diferentes e muito legais também nessa temporada aqui.
+
+37
+00:01:09,540 --> 00:01:12,629
+E o interessante é que os tem recados muito parecidos e o nosso
+
+38
+00:01:12,639 --> 00:01:16,190
+bos de hoje é o da Good Storage e pra gente começar Thiago,
+
+39
+00:01:16,199 --> 00:01:18,440
+eu queria que você contasse um pouco, que dor que você encontrou,
+
+40
+00:01:18,449 --> 00:01:21,150
+qual que foi o motivo que que apareceu cê falou pera,
+
+41
+00:01:21,160 --> 00:01:24,690
+aí eu vou atacar esse problema e como que evolui um pouquinho o seu produto,
+
+42
+00:01:24,766 --> 00:01:25,936
+-- O que a empresa faz o que a empresa faz
+-- hoje?
+
+43
+00:01:25,946 --> 00:01:30,876
+Obrigado. Paulo Dantas também Alura VI é engraçado, chama de voz.
+
+44
+00:01:30,887 --> 00:01:34,446
+É que hoje em dia, acho que se você não arregaçar as mangas e sentar lado a lado,
+
+45
+00:01:34,457 --> 00:01:38,457
+ombro o com todo mundo e não ter aquele vínculo, inspira de comprometimento.
+
+46
+00:01:38,467 --> 00:01:41,777
+Nada anda principalmente para você empreender, então, com a tua pergunta,
+
+47
+00:01:41,787 --> 00:01:44,236
+nove anos atrás, a gente faz dez anos agora em dezembro,
+
+48
+00:01:44,247 --> 00:01:49,507
+mas antecipei uma tese que vem hoje já muito
+
+49
+00:01:49,516 --> 00:01:52,137
+conhecida e de fato se mostrou muito importante,
+
+50
+00:01:52,147 --> 00:01:25,905
+mas que era de uma reorganização das cadeias de hoje?
+
+51
+00:01:25,916 --> 00:01:26,625
+Obrigado.
+
+52
+00:01:26,636 --> 00:01:29,786
+Paulo Dantas também Alura vi É engraçado chamar de
+
+53
+00:01:29,795 --> 00:01:31,875
+boss é que hoje em dia acho que se você
+
+54
+00:01:31,886 --> 00:01:34,786
+não arregaçar as mangas e sentar lado a lado ombro
+
+55
+00:01:34,795 --> 00:01:36,865
+obra com todo mundo e não ter aquele vínculo,
+
+56
+00:01:36,875 --> 00:01:38,466
+inspira de comprometimento.
+
+57
+00:01:38,475 --> 00:01:41,786
+Nada anda principalmente para você empreender, então, com a tua pergunta,
+
+58
+00:01:41,795 --> 00:01:44,246
+nove anos atrás, a gente faz dez anos agora em dezembro,
+
+59
+00:01:44,255 --> 00:01:49,505
+mas antecipei uma tese que vem hoje já muito
+
+60
+00:01:49,515 --> 00:01:52,146
+conhecida e de fato se mostrou muito importante,
+
+61
+00:01:52,155 --> 00:01:55,973
+mas que era de uma reorganização das cadeias de dos centros urbanos.
+
+62
+00:01:55,984 --> 00:01:57,094
+Então no início,
+
+63
+00:01:57,103 --> 00:01:59,954
+mais com pessoas físicas e aí era desenvolver
+
+64
+00:01:59,963 --> 00:02:02,454
+um produto imobiliário que é o Self store.
+
+65
+00:02:02,463 --> 00:02:04,263
+E aí, na sequência, a gente fala mais depois disso.
+
+66
+00:02:04,274 --> 00:02:08,514
+Mas no segundo momento da companhia, trabalhar a logística de ultima mídia,
+
+67
+00:02:08,524 --> 00:02:11,893
+que ficou algo muito evidente e necessário depois que foi
+
+68
+00:02:11,904 --> 00:02:14,414
+da pandemia e que mudou muito os hábitos de consumo.
+
+69
+00:02:14,423 --> 00:02:17,214
+Mas então, lá atrás, eu vinha do mercado imobiliário,
+
+70
+00:02:17,223 --> 00:02:18,694
+já de muito tempo eu tinha desenvolvido
+
+71
+00:02:18,703 --> 00:02:21,533
+muitas classes de ativo shopping residencial,
+
+72
+00:02:21,544 --> 00:01:55,982
+escritório, hospital, enfim, sempre dos centros urbanos.
+
+73
+00:01:55,991 --> 00:01:57,101
+Então no início,
+
+74
+00:01:57,111 --> 00:01:59,942
+mais com pessoas físicas e aí era desenvolver
+
+75
+00:01:59,952 --> 00:02:02,461
+um produto imobiliário que é o Self store.
+
+76
+00:02:02,472 --> 00:02:04,272
+E aí, na sequência, a gente fala mais depois disso.
+
+77
+00:02:04,281 --> 00:02:08,461
+Mas no segundo momento da companhia, trabalhar a logística de ultima mídia,
+
+78
+00:02:08,472 --> 00:02:11,901
+que ficou algo muito evidente e necessário depois que foi
+
+79
+00:02:11,912 --> 00:02:14,382
+da pandemia e que mudou muito os hábitos de consumo.
+
+80
+00:02:14,391 --> 00:02:17,222
+Mas então, lá atrás, eu vinha do mercado imobiliário,
+
+81
+00:02:17,231 --> 00:02:18,692
+já de muito tempo eu tinha desenvolvido
+
+82
+00:02:18,701 --> 00:02:21,542
+muitas classes de ativo shopping residencial,
+
+83
+00:02:21,552 --> 00:02:25,817
+escritório, hospital, enfim, sempre investimento Quando investimento.
+
+84
+00:02:25,828 --> 00:02:30,610
+-- Quando
+-- você diz desenvolver, criar os veículos pra investir nisso,
+
+85
+00:02:26,548 --> 00:02:30,098
+você diz desenvolver criar os veículos pra investir
+
+86
+00:02:30,108 --> 00:02:32,731
+-- nisso
+-- eu representava os veículos de investimento,
+
+87
+00:02:32,740 --> 00:02:35,651
+mas não trabalhava na ponta, inclusive tendo times de comprar terreno,
+
+88
+00:02:35,660 --> 00:02:37,490
+aprovar projeto, construir, etc.
+
+89
+00:02:37,501 --> 00:02:40,811
+E operar e gerir depois e em determinado momento,
+
+90
+00:02:40,820 --> 00:02:42,891
+tendo um pouco essa visão de que eu acho
+
+91
+00:02:42,901 --> 00:02:44,921
+que tinha uma oportunidade de uma classe de ativo,
+
+92
+00:02:44,930 --> 00:02:46,311
+uma carteira ativa que no Brasil era muito
+
+93
+00:02:46,320 --> 00:02:50,490
+inédita ainda associado a uma vontade de empreender,
+
+94
+00:02:50,501 --> 00:02:50,791
+etc.
+
+95
+00:02:50,800 --> 00:02:54,190
+Eu fiz esse movimento de tentar trazer
+
+96
+00:02:30,628 --> 00:02:32,718
+eu representava os veículos de investimento,
+
+97
+00:02:32,727 --> 00:02:35,617
+mas não trabalhava na ponta, inclusive tendo times de comprar terreno,
+
+98
+00:02:35,628 --> 00:02:37,488
+aprovar projeto, construir, etc.
+
+99
+00:02:37,498 --> 00:02:40,817
+E operar e gerir depois e em determinado momento,
+
+100
+00:02:40,828 --> 00:02:44,537
+tendo um pouco essa visão de que eu acho que tinha uma oportunidade de uma classe de
+
+101
+00:02:44,548 --> 00:02:46,307
+ativo de uma ativa que no Brasil era muito
+
+102
+00:02:46,317 --> 00:02:50,498
+inédita ainda associado a uma vontade de empreender,
+
+103
+00:02:50,507 --> 00:02:54,848
+etc, eu fiz esse movimento de tentar trazer essa solução.
+
+104
+00:02:54,858 --> 00:02:55,307
+Então, basicamente,
+
+105
+00:02:55,317 --> 00:02:59,328
+a solução da Good é atender as novas demandas dos centros
+
+106
+00:02:59,337 --> 00:03:03,367
+urbanos e de pessoas físicas nas necessidades de armazenagem pessoal.
+
+107
+00:03:03,378 --> 00:03:08,408
+E isso vem ao encontro de uma nova forma de morar nos centros urbanos,
+
+108
+00:03:08,417 --> 00:03:11,128
+tem apartamentos menores, tem mais mobilidade etc.
+
+109
+00:03:11,138 --> 00:03:15,447
+Então tem essa oportunidade de você ter espaços para armazenagem flexíveis,
+
+110
+00:03:15,457 --> 00:03:16,328
+sem burocracia.
+
+111
+00:03:16,337 --> 00:03:19,367
+Contratos mensais quase com uma assinatura de um espaço,
+
+112
+00:03:19,378 --> 00:03:22,938
+uma das dores que que a gente tenta resolver.
+
+113
+00:03:22,947 --> 00:02:54,854
+A segunda dor a solução.
+
+114
+00:02:54,863 --> 00:02:55,304
+Então, basicamente,
+
+115
+00:02:55,313 --> 00:02:59,093
+a solução da Good Storage é atender as novas demandas dos
+
+116
+00:02:59,104 --> 00:03:03,373
+centros urbanos e de pessoas físicas nas necessidades de armazenagem pessoal.
+
+117
+00:03:03,384 --> 00:03:08,373
+E isso vem ao encontro de uma nova forma de morar nos centros urbanos,
+
+118
+00:03:08,384 --> 00:03:11,134
+tem apartamentos menores, tem mais mobilidade etc.
+
+119
+00:03:11,143 --> 00:03:15,414
+Então tem essa oportunidade de você ter espaços para armazenagem flexíveis,
+
+120
+00:03:15,423 --> 00:03:16,324
+sem burocracia.
+
+121
+00:03:16,333 --> 00:03:19,373
+Contratos mensais quase com uma assinatura de um espaço.
+
+122
+00:03:19,384 --> 00:03:26,065
+Uma das dores que que a gente tenta resolver e a segunda dor subir é apresentar,
+
+123
+00:03:26,074 --> 00:03:27,725
+dentro da cidade uma infraestrutura de
+
+124
+00:03:27,735 --> 00:03:30,524
+armazenagem que permitam as empresas trabalharem.
+
+125
+00:03:30,535 --> 00:03:26,070
+A última de uma forma muito mais eficiente você subir é apresentar
+
+126
+00:03:26,080 --> 00:03:27,729
+dentro da cidade uma infraestrutura de
+
+127
+00:03:27,740 --> 00:03:30,529
+armazenagem que permitam as empresas trabalharem.
+
+128
+00:03:30,539 --> 00:03:33,410
+-- A última mina de uma forma muito mais eficiente você
+-- tinha,
+
+129
+00:03:33,419 --> 00:03:37,410
+você mesmo tinha essa dor de guardar suas coisas como pessoa
+
+130
+00:03:37,419 --> 00:03:40,009
+física lá atrás nove anos atrás existia Você fala poxa,
+
+131
+00:03:40,020 --> 00:03:33,404
+eu precisava deixar um pouco mais de coisa tinha,
+
+132
+00:03:33,414 --> 00:03:37,404
+você mesmo tinha essa dor de guardar suas coisas como pessoa
+
+133
+00:03:37,414 --> 00:03:40,005
+física lá atrás nove anos atrás existia Você fala Poxa,
+
+134
+00:03:40,014 --> 00:03:42,725
+-- eu precisava deixar um pouco mais de coisa
+-- Aqui será engraçado!
+
+135
+00:03:42,735 --> 00:03:48,024
+Pergunta Boa pergunta Eu eu não sou um cara que acumula muita coisa assim e eu não,
+
+136
+00:03:48,035 --> 00:03:51,404
+eu não era usuário, não foi de uma experiência própria.
+
+137
+00:03:51,414 --> 00:03:42,729
+Eu acho que foi mais de fato de Aqui, será engraçado.
+
+138
+00:03:42,740 --> 00:03:48,050
+Pergunta Boa pergunta Eu eu não sou um cara que acumula muita coisa e eu não,
+
+139
+00:03:48,059 --> 00:03:51,410
+não era usuário, não foi de uma experiência própria.
+
+140
+00:03:51,419 --> 00:03:55,542
+Eu acho que foi mais de fato de estar no mercado, é uma mulher há muito tempo,
+
+141
+00:03:55,552 --> 00:04:01,602
+se storage era, é uma categoria de ativo nos Estados Unidos, que é muito difundida,
+
+142
+00:04:01,611 --> 00:04:01,841
+né?
+
+143
+00:04:01,852 --> 00:04:05,121
+Eu tenho laços com os Estados Unidos há muito tempo fiz MB fora, etc.
+
+144
+00:04:05,132 --> 00:04:06,921
+Então era algo que estava no meu radar e
+
+145
+00:04:06,932 --> 00:04:09,882
+acho que eu percebi mais a oportunidade de negócio,
+
+146
+00:04:09,891 --> 00:04:11,481
+por que que até então isso nós estamos em dois mil e
+
+147
+00:04:11,492 --> 00:04:15,682
+treze tinha muito pouco muito pouco desenvolvido nessa linha aqui no Brasil,
+
+148
+00:04:15,692 --> 00:04:19,902
+porque havia uma premissa, uma crença limitante de que a gente,
+
+149
+00:04:19,911 --> 00:04:22,041
+o Brasil não ia ter cultura de armazenagem.
+
+150
+00:04:22,052 --> 00:03:57,166
+E não é que nem o no mercado da mulher há muito tempo, se era,
+
+151
+00:03:57,175 --> 00:04:01,845
+é uma categoria de ativo nos Estados Unidos, que é muito difundida, né?
+
+152
+00:04:01,856 --> 00:04:05,126
+Eu tenho laços com os Estados Unidos. Há muito tempo fiz MB fora, etc.
+
+153
+00:04:05,136 --> 00:04:06,925
+Então era algo que estava no meu radar e
+
+154
+00:04:06,936 --> 00:04:09,886
+acho que eu percebi mais a oportunidade de negócio,
+
+155
+00:04:09,895 --> 00:04:13,005
+Por que que até então, isso nós estamos em dois mil e treze tinha muito pouco,
+
+156
+00:04:13,016 --> 00:04:15,686
+muito pouco desenvolvido nessa linha aqui no Brasil.
+
+157
+00:04:15,695 --> 00:04:19,906
+Porque havia uma premissa, uma crença limitante de que a gente,
+
+158
+00:04:19,915 --> 00:04:22,665
+o Brasil não ia ter cultura de armazenagem, né?
+
+159
+00:04:22,675 --> 00:04:26,639
+Não é que nem o com muito acumulador, baby, boomers, etc.
+
+160
+00:04:26,648 --> 00:04:27,889
+Não que isso não vai pegar aqui.
+
+161
+00:04:27,898 --> 00:04:31,209
+Isso não vai pegar e não pegava também indo um pouco mais além,
+
+162
+00:04:31,218 --> 00:04:32,419
+aqui na na tua colocação,
+
+163
+00:04:32,428 --> 00:04:36,938
+porque você tinha muito poucas unidades sempre periféricas,
+
+164
+00:04:36,949 --> 00:04:39,019
+na verdade chamava guarda móveis.
+
+165
+00:04:39,028 --> 00:04:44,239
+Pra começar, Então, era. Era guarda móveis. E a história é a seguinte né?
+
+166
+00:04:44,248 --> 00:04:45,609
+Que que é a associação com o guarda móveis?
+
+167
+00:04:45,618 --> 00:04:48,118
+Quando eu fui começar o negócio, eu fiz um pequeno focus grupo, etc.
+
+168
+00:04:48,128 --> 00:04:53,539
+Ah, são aqueles centros aqueles armazéns velhos, meio, numa longe da cidade,
+
+169
+00:04:23,791 --> 00:04:26,641
+com muito acumulador, baby, boomers, etc.
+
+170
+00:04:26,652 --> 00:04:28,712
+Não que isso não vai pegar aqui. Isso não vai pegar.
+
+171
+00:04:28,721 --> 00:04:32,421
+E não pegava também indo um pouco mais além aqui na na tua colocação,
+
+172
+00:04:32,432 --> 00:04:36,921
+porque você tinha muito poucas unidades sempre periféricas.
+
+173
+00:04:36,932 --> 00:04:39,752
+Na verdade chamava guarda móveis.
+
+174
+00:04:39,761 --> 00:04:44,242
+-- Era, era
+-- guarda móveis e a história é a seguinte né?
+
+175
+00:04:44,252 --> 00:04:45,611
+Que que é a associação com o guarda móveis?
+
+176
+00:04:45,622 --> 00:04:48,122
+Quando eu fui começar o negócio, eu fiz um pequeno Focus G, etc.
+
+177
+00:04:48,131 --> 00:04:53,541
+Ah, são aqueles centros, aqueles armazéns velhos, meio, numa longe da cidade,
+
+178
+00:04:53,626 --> 00:04:55,626
+pra você guardar as coisas que você não precisa começar a fazer,
+
+179
+00:04:55,635 --> 00:04:56,915
+começar a fazer mudança.
+
+180
+00:04:56,925 --> 00:04:59,096
+E nós temos uma consulta completamente diferente Não.
+
+181
+00:04:59,105 --> 00:05:02,235
+O nosso negócio é monetizar a funcionalidade, né?
+
+182
+00:05:02,246 --> 00:05:03,915
+Então, hoje talvez as pessoas aqui,
+
+183
+00:05:03,925 --> 00:05:06,555
+os ouvintes aqui de São Paulo e tal mais fácil reconhecer
+
+184
+00:05:06,566 --> 00:05:08,276
+que é o nosso mercado ainda é o nosso mercado.
+
+185
+00:05:08,286 --> 00:05:11,075
+Foco de atuação, nossos imóveis aí, laranja e verde pela cidade.
+
+186
+00:05:11,085 --> 00:05:14,395
+Nós estamos em Moema, nós estamos na Vila Olímpia, nós estamos na Rua Augusto,
+
+187
+00:05:14,406 --> 00:05:17,276
+enfim, a ideia é que você de fato seja.
+
+188
+00:05:17,286 --> 00:05:22,355
+É uma um equipamento complementar, a necessidade do dia a dia, né do teu do, teu,
+
+189
+00:05:22,365 --> 00:04:55,597
+do teu usuário, foi pra você guardar as coisas que você não precisa começar a fazer,
+
+190
+00:04:55,608 --> 00:04:56,917
+começar a fazer mudança.
+
+191
+00:04:56,928 --> 00:04:59,088
+E nós temos uma consulta completamente diferente Não.
+
+192
+00:04:59,097 --> 00:05:02,238
+O nosso negócio é monetizar a funcionalidade, né?
+
+193
+00:05:02,247 --> 00:05:03,917
+Então, hoje talvez as pessoas aqui,
+
+194
+00:05:03,928 --> 00:05:06,558
+os ouvintes aqui de São Paulo e tal mais fácil reconhecer
+
+195
+00:05:06,567 --> 00:05:08,278
+que é o nosso mercado ainda é o nosso mercado.
+
+196
+00:05:08,287 --> 00:05:11,078
+Foco de atuação, nossos imóveis aí, laranja e verde pela cidade.
+
+197
+00:05:11,088 --> 00:05:14,398
+Nós estamos em Moema, Nós estamos na Vila Olímpia, nós estamos na Rua Augusto,
+
+198
+00:05:14,407 --> 00:05:19,917
+enfim, a ideia é que você de fato seja, é uma, um equipamento complementar.
+
+199
+00:05:19,928 --> 00:05:23,197
+A necessidade do Dia-a-dia, né Do teu do, teu, do teu usuário.
+
+200
+00:05:23,208 --> 00:05:27,592
+Foi uma mudança muito radical, até de posicionamento, né? Desse desse ativo, né?
+
+201
+00:05:27,602 --> 00:05:32,312
+Então, era um pouco. Isso né? Guarda móveis, é um lugar distante e tal.
+
+202
+00:05:32,322 --> 00:05:33,912
+E também, a essa época,
+
+203
+00:05:33,923 --> 00:05:36,872
+o pouco que existia as pessoas ficaram fazer o seguinte O empreendedor, né?
+
+204
+00:05:36,882 --> 00:05:40,352
+Criativo, Brasileiro, pô, eu vou alugar esse negócio! Tá aí parado tal?
+
+205
+00:05:40,363 --> 00:05:41,433
+Não sei o quê por dez.
+
+206
+00:05:41,442 --> 00:05:44,352
+Vou picar ele em vários espaços menorzinhos,
+
+207
+00:05:44,363 --> 00:05:46,953
+aí vou real por trinta e eu fico com vinte?
+
+208
+00:05:46,963 --> 00:05:49,942
+É, Mas o cara não tem interesse nenhum em investir no imóvel,
+
+209
+00:05:49,953 --> 00:05:51,472
+deixar um negócio bonito, etc.
+
+210
+00:05:51,483 --> 00:05:26,194
+Tem um Pio de né? uma mudança muito radical, até de posicionamento, né?
+
+211
+00:05:26,204 --> 00:05:29,713
+Desse desse ativo, né? Então, era um pouco. Isso né?
+
+212
+00:05:29,723 --> 00:05:34,003
+Guarda móveis, é um lugar distante e tal. E também a essa época, né?
+
+213
+00:05:34,014 --> 00:05:36,753
+O pouco que existia as pessoas ficaram fazer o seguinte O empreendedor,
+
+214
+00:05:36,764 --> 00:05:37,773
+né Criativo brasileiro.
+
+215
+00:05:37,783 --> 00:05:41,433
+Pô, eu vou alugar esse negócio. Tá aí parado tal? Não sei o quê por dez.
+
+216
+00:05:41,444 --> 00:05:44,354
+Vou picar ele em vários espaços menorzinhos,
+
+217
+00:05:44,364 --> 00:05:46,993
+aí vou real por trinta e eu fico com vinte É,
+
+218
+00:05:47,003 --> 00:05:51,234
+mas o cara não tem interesse nenhum em investir no imóvel, deixar um negócio bonito,
+
+219
+00:05:51,243 --> 00:05:51,473
+etc.
+
+220
+00:05:51,484 --> 00:05:53,213
+Tem um p de né?
+
+221
+00:05:53,480 --> 00:05:56,480
+E aí, à medida que eu consegui trazer um capital institucional pra isso,
+
+222
+00:05:56,489 --> 00:05:57,170
+a gente pode falar disso.
+
+223
+00:05:57,179 --> 00:06:02,529
+Depois a gente fez um, enfim, um um, um imóvel voltado assim comparado.
+
+224
+00:06:02,540 --> 00:06:05,369
+Hoje a nossa operação a gente se compara muito mais a imóveis de varejo.
+
+225
+00:06:05,380 --> 00:06:07,769
+Mesmo assim, a gente são localidades de varejo.
+
+226
+00:06:07,779 --> 00:06:14,140
+Tem toda uma questão, né, Um olhar pra como o varejo tem atendimento etc.
+
+227
+00:06:14,149 --> 00:05:53,820
+Então, foi uma revolução mesmo nesse sentido, E aí,
+
+228
+00:05:53,829 --> 00:05:56,480
+à medida que eu consegui trazer um capital institucional pra isso,
+
+229
+00:05:56,489 --> 00:05:57,179
+a gente pode falar disso.
+
+230
+00:05:57,190 --> 00:06:02,500
+Depois a gente fez um, enfim, um um, um imóvel voltado assim comparado.
+
+231
+00:06:02,510 --> 00:06:05,380
+Hoje a nossa operação a gente se compara muito mais a imóveis de varejo.
+
+232
+00:06:05,390 --> 00:06:07,779
+Mesmo assim, são localidades de varejo.
+
+233
+00:06:07,790 --> 00:06:14,140
+Tem toda uma questão, né, Um olhar pra como o varejo tem atendimento etc.
+
+234
+00:06:14,149 --> 00:06:15,519
+Então, foi uma revolução mesmo.
+
+235
+00:06:15,529 --> 00:06:15,980
+Nesse sentido,
+
+236
+00:06:15,989 --> 00:06:16,677
+humildemente falando a gente fez uma reviravolta nessa história nessa de falando,
+
+237
+00:06:16,687 --> 00:06:20,316
+-- a gente fez uma reviravolta na história
+-- nessa parte do CHC, que foi seu início.
+
+238
+00:06:20,326 --> 00:06:22,497
+Qual que em dois mil e treze foi as primeiras
+
+239
+00:06:22,506 --> 00:06:24,316
+coisas que as pessoas guardavam E hoje em dia,
+
+240
+00:06:24,326 --> 00:06:25,927
+o que que é que as pessoas guardam?
+
+241
+00:06:25,937 --> 00:06:29,707
+Só pra eu entender o que que a cultura pegou é e vou cumprimentar um pouco,
+
+242
+00:06:29,717 --> 00:06:31,566
+se era uma pessoa que fazia mudança,
+
+243
+00:06:31,576 --> 00:06:34,277
+ou aquela que não cabia as coisas em casa ou nenhuma delas,
+
+244
+00:06:34,286 --> 00:06:20,339
+ou nenhuma das é parte do que foi seu início.
+
+245
+00:06:20,350 --> 00:06:20,779
+Qual? Que?
+
+246
+00:06:20,790 --> 00:06:24,308
+Em dois mil e treze foi as primeiras as coisas que as pessoas guardavam hoje em dia?
+
+247
+00:06:24,317 --> 00:06:25,937
+O que que as pessoas guardam?
+
+248
+00:06:25,947 --> 00:06:29,708
+Só pra eu entender o que que a cultura pegou e vou cumprimentar um pouco.
+
+249
+00:06:29,717 --> 00:06:32,048
+Se era uma pessoa que fazia mudança ou aquela que
+
+250
+00:06:32,058 --> 00:06:34,268
+não cabia as coisas em casa ou nenhuma delas,
+
+251
+00:06:34,278 --> 00:06:36,727
+-- ou
+-- nenhuma das o mais gozado.
+
+252
+00:06:36,738 --> 00:06:38,567
+O mais gozado quando a gente começou foi
+
+253
+00:06:38,578 --> 00:06:41,148
+o seguinte a primeira unidade foi no Anhembi,
+
+254
+00:06:41,157 --> 00:06:42,247
+atrás do Sambódromo.
+
+255
+00:06:42,257 --> 00:06:47,227
+Anhembi, boa localização, Casa verde, saindo da marginal, cem metros, mas na rua,
+
+256
+00:06:47,238 --> 00:06:48,757
+numa rua atrás, né?
+
+257
+00:06:48,768 --> 00:06:36,717
+E aí, um ativo o mais gozado.
+
+258
+00:06:36,726 --> 00:06:38,596
+O mais gozado quando a gente começou foi
+
+259
+00:06:38,606 --> 00:06:41,144
+o seguinte A primeira unidade foi no Anhembi,
+
+260
+00:06:41,153 --> 00:06:42,544
+atrás do Sambódromo do Anhembi.
+
+261
+00:06:42,553 --> 00:06:48,424
+Boa localização Casa Verde saindo da marginal cem metros. Mas na numa rua atrás.
+
+262
+00:06:48,433 --> 00:06:52,514
+Aí inauguramos um ativo ativo pronto e tal.
+
+263
+00:06:52,523 --> 00:06:53,395
+Ninguém se ativo é um ativo, pronto, tal Ninguém, né?
+
+264
+00:06:53,406 --> 00:06:59,395
+Se o ativo é um prédio certo, é dependendo de lugar pra lugar a gente tem dez, em Moema,
+
+265
+00:06:59,406 --> 00:07:00,395
+que são oito andares,
+
+266
+00:07:00,406 --> 00:07:03,436
+um predinho que você tem que usar mais o potencial construtivo do terreno, né?
+
+267
+00:07:03,446 --> 00:07:06,196
+Até lugares que eles são mais verticais, enfim, né?
+
+268
+00:07:06,205 --> 00:07:09,515
+Lugares menos adensados esse esse no caso, são três andares,
+
+269
+00:07:09,526 --> 00:07:12,996
+era um ativo meio de galpão, enfim guardava autopeças.
+
+270
+00:07:13,006 --> 00:07:18,316
+Mas o ponto curioso só essas curiosidades de início. E aí a gente inaugura.
+
+271
+00:07:18,325 --> 00:07:19,835
+Refizemos, uma reforma no galpão.
+
+272
+00:07:19,846 --> 00:06:55,183
+-- Tudo bonito,
+-- prédio
+
+273
+00:06:55,194 --> 00:06:58,914
+certo, dependendo de lugar para lugar, a gente tem dez,
+
+274
+00:06:58,924 --> 00:07:00,384
+em Moema, que são oito andares,
+
+275
+00:07:00,394 --> 00:07:03,170
+um predinho que você tem que usar o potencial construtivo do terreno,
+
+276
+00:07:03,180 --> 00:07:06,050
+até lugares que eles são mais verticais, Enfim,
+
+277
+00:07:06,061 --> 00:07:09,490
+lugares menos adensados esse esse no caso, são três andares,
+
+278
+00:07:09,501 --> 00:07:12,971
+era um ativo meio de galpão, enfim guardava autopeças.
+
+279
+00:07:12,980 --> 00:07:18,240
+Mas o ponto curioso, só dizendo essas curiosidades de início E aí a gente fui lá,
+
+280
+00:07:18,251 --> 00:07:21,401
+fiz uma reforma no galpão, tudo bonito, laranja e verde e tal.
+
+281
+00:07:21,411 --> 00:07:22,920
+Não sei o que ninguém sabia que era software,
+
+282
+00:07:22,930 --> 00:07:21,384
+muito também guarda uma laranja e verde e tal.
+
+283
+00:07:21,394 --> 00:07:23,933
+Não sei o que ninguém sabia, O que era o é muito também guarda mão.
+
+284
+00:07:23,944 --> 00:07:28,063
+Eu falei meu eu vou abrir isso aqui Quem vai entrar, né? Tinha aquela coisa.
+
+285
+00:07:28,074 --> 00:07:31,924
+E noventa e cinco por cento da nossa captura, de de, de clientes, é online, né?
+
+286
+00:07:31,933 --> 00:07:35,364
+mas não tinha reconhecimento de marca nenhuma. O setor não era conhecido.
+
+287
+00:07:35,373 --> 00:07:38,503
+Bom, é o site. Claro que a gente inaugurou com um site bonito em pé e tal.
+
+288
+00:07:38,514 --> 00:07:40,803
+Primeiro dia a gente colocava lá Good store no Google,
+
+289
+00:07:40,813 --> 00:07:44,644
+a gente era tipo a décima quinta página tinha, é, é, é,
+
+290
+00:07:44,653 --> 00:07:48,243
+não tinha nenhum tipo de reconhecimento online, etc.
+
+291
+00:07:48,253 --> 00:07:27,649
+Então, foi muito eu falei meu, eu vou abrir isso aqui. Quem vai entrar? Né?
+
+292
+00:07:27,660 --> 00:07:31,269
+Tinha aquela E noventa e cinco por cento da nossa captura, de de, de clientes?
+
+293
+00:07:31,279 --> 00:07:33,790
+É online, né? Mas não tinha reconhecimento de marca nenhuma.
+
+294
+00:07:33,799 --> 00:07:36,269
+O setor não era conhecido. Bom é o site.
+
+295
+00:07:36,279 --> 00:07:38,500
+Claro que a gente inaugurou com um site bonito em pé e tal.
+
+296
+00:07:38,510 --> 00:07:40,820
+Primeiro dia a gente colocava lá goo no google.
+
+297
+00:07:40,829 --> 00:07:44,649
+A gente era tipo a décima quinta página tinha, é, é, é,
+
+298
+00:07:44,660 --> 00:07:48,260
+não tinha nenhum tipo de reconhecimento online, etc.
+
+299
+00:07:48,269 --> 00:07:49,589
+Então foi muito gozado,
+
+300
+00:07:49,600 --> 00:07:52,570
+assim a gente ali e aí a coisa toma atração e e e
+
+301
+00:07:49,201 --> 00:07:53,552
+a gente ali e aí a coisa toma uma atração e foi crescendo.
+
+302
+00:07:53,562 --> 00:07:57,171
+E os primeiros usuários é muito relacionado à mudança,
+
+303
+00:07:57,182 --> 00:07:58,731
+eu acho que começa muito assim.
+
+304
+00:07:58,742 --> 00:08:00,772
+Eu tenho uma dor que é eu tô mudando de um
+
+305
+00:08:00,782 --> 00:08:04,052
+apartamento pro outro a que eu vendi lá eu aluguei,
+
+306
+00:08:04,062 --> 00:08:06,891
+eu tenho um casamento de time e é uma.
+
+307
+00:08:06,902 --> 00:08:08,731
+Então a gente chamou que é um, né?
+
+308
+00:08:08,742 --> 00:08:13,361
+Então você tem um uso direcionado pra um evento específico.
+
+309
+00:08:13,372 --> 00:08:14,532
+Com o tempo,
+
+310
+00:08:14,541 --> 00:08:18,032
+à medida que a gente vai conseguindo ter um crescimento de
+
+311
+00:07:52,648 --> 00:07:57,178
+foi crescendo e os primeiros usuários muito relacionado à mudança.
+
+312
+00:07:57,187 --> 00:07:58,738
+Eu acho que começa muito assim,
+
+313
+00:07:58,747 --> 00:08:00,778
+eu tenho uma dor que é eu tô mudando de um
+
+314
+00:08:00,787 --> 00:08:04,058
+apartamento pro outro a que eu vendi lá eu aluguei.
+
+315
+00:08:04,067 --> 00:08:08,708
+Eu tenho um descasamento de time e é uma, então a gente chamou que é um, né?
+
+316
+00:08:08,717 --> 00:08:13,358
+Então você tem um uso direcionado pra um evento específico.
+
+317
+00:08:13,368 --> 00:08:14,537
+Com o tempo,
+
+318
+00:08:14,548 --> 00:08:17,097
+à medida que a gente vai conseguindo ter um
+
+319
+00:08:17,108 --> 00:08:19,697
+crescimento de as pessoas vão entendendo a solução,
+
+320
+00:08:19,708 --> 00:08:19,920
+etc, a gente vai conseguir as pessoas vão entendendo a solução, etc,
+
+321
+00:08:19,929 --> 00:08:24,299
+a gente vai conseguindo atrair e converter clientes de mais longa estadia,
+
+322
+00:08:24,309 --> 00:08:29,380
+então que de fato usam os espaços como extensão nas próprias casas, que é na verdade.
+
+323
+00:08:29,390 --> 00:08:34,219
+Enfim. Nesse sentido, nosso melhor cliente tem prazo de estadias mais longo.
+
+324
+00:08:34,229 --> 00:08:38,419
+EC e é onde a gente até entende. São dois, dois usos diferentes.
+
+325
+00:08:38,429 --> 00:08:39,340
+Tem espaço para os dois.
+
+326
+00:08:39,349 --> 00:08:42,179
+Mas na medida em que o negócio vai maturando, você vai conseguindo encontrar.
+
+327
+00:08:42,190 --> 00:08:45,780
+A gente foi entrando mais dentro dos bairros, né? Você vai encontrando mais.
+
+328
+00:08:45,789 --> 00:08:24,446
+Os usuários que a converter clientes de mais longa estadia,
+
+329
+00:08:24,455 --> 00:08:29,365
+que de fato usam os espaços como extensão nas próprias casas, que é na verdade.
+
+330
+00:08:29,376 --> 00:08:34,765
+Enfim. Nesse sentido, nosso melhor cliente tem prazo de estadias mais longos, etc.
+
+331
+00:08:34,775 --> 00:08:36,285
+E aonde a gente até entende.
+
+332
+00:08:36,296 --> 00:08:39,366
+São dois usos diferentes tem espaço para os dois,
+
+333
+00:08:39,375 --> 00:08:42,166
+Mas na medida em que o negócio vai maturando, você vai conseguindo encontrar.
+
+334
+00:08:42,176 --> 00:08:45,685
+A gente foi entrando mais dentro dos bairros, você vai encontrando mais.
+
+335
+00:08:45,695 --> 00:08:48,606
+Os usuários que de fato usam as nossas unidades,
+
+336
+00:08:48,616 --> 00:08:49,788
+como uma extensão da de fato usam as nossas unidades, como uma extensão da casa,
+
+337
+00:08:49,797 --> 00:08:55,268
+frequentam duas, três vezes por semana, é muito legal.
+
+338
+00:08:55,278 --> 00:08:59,987
+Caramba frequentam, mudam o que guardam. É como essas histórias.
+
+339
+00:08:59,997 --> 00:09:03,947
+Então você tem também, Enfim, colecionadores,
+
+340
+00:09:03,958 --> 00:09:08,437
+Você tem pessoas que meu montaram um mini mini Livin,
+
+341
+00:09:08,447 --> 00:09:15,307
+porque vão lá e gostam de mexer na sua oficina pequena desde hobbys, né?
+
+342
+00:09:15,317 --> 00:08:52,414
+Claro, no caso, frequentam duas, três vezes por semana.
+
+343
+00:08:52,424 --> 00:08:57,114
+É muito legal, caramba frequentam,
+
+344
+00:08:57,124 --> 00:09:01,513
+mudam o que guardam como essas histórias então você tem também, enfim,
+
+345
+00:09:01,523 --> 00:09:08,434
+colecionadores, você tem pessoas que meu montaram um mini mini Livin,
+
+346
+00:09:08,443 --> 00:09:15,314
+porque vão lá e gostam de mexer na sua oficina pequena Desde hobbys, né?
+
+347
+00:09:15,323 --> 00:09:16,875
+Claro, estatisticamente, é um percentual menor estatisticamente,
+
+348
+00:09:16,885 --> 00:09:18,156
+é um percentual menor de clientes, né.
+
+349
+00:09:18,166 --> 00:09:18,452
+Que é isso. Mas tem histórias super, pegou gente dormindo clientes né? Que é isso.
+
+350
+00:09:18,461 --> 00:09:22,716
+-- Mas tem história super pegou gente
+-- dormindo no no na, no no na.
+
+351
+00:09:22,726 --> 00:09:27,742
+-- A
+-- A gente teve que colocar um processo novo, de de operacional, de ronda,
+
+352
+00:09:27,752 --> 00:09:28,901
+andar por andar.
+
+353
+00:09:28,911 --> 00:09:31,041
+Por conta disso, por conta de um dia a gente,
+
+354
+00:09:31,052 --> 00:09:33,021
+a gente tem uma situação de chegar no dia seguinte.
+
+355
+00:09:33,031 --> 00:09:38,541
+Alguém é sofá e tal. Hoje não acontece mais. A gente tem um processo de ronda.
+
+356
+00:09:38,552 --> 00:09:41,642
+E também tem câmeras que capturam todo qualquer tipo de movimento.
+
+357
+00:09:41,651 --> 00:09:43,021
+Câmeras inteligentes em todos os andares,
+
+358
+00:09:43,031 --> 00:09:45,002
+então a gente consegue perceber qualquer tipo de atividade.
+
+359
+00:09:45,012 --> 00:09:26,955
+É por movimentação gente teve que colocar um processo novo, de de operacional,
+
+360
+00:09:26,966 --> 00:09:30,226
+de ronda, andar por andar por conta disso.
+
+361
+00:09:30,236 --> 00:09:33,036
+Por conta um dia a gente, a gente tem uma situação de chegar no dia seguinte,
+
+362
+00:09:33,046 --> 00:09:36,075
+alguém até o sofá e tal.
+
+363
+00:09:36,085 --> 00:09:38,556
+Hoje não acontece mais. A gente tem um processo de ronda.
+
+364
+00:09:38,565 --> 00:09:41,635
+E também tem câmeras que capturam todo qualquer tipo de movimento.
+
+365
+00:09:41,645 --> 00:09:43,036
+Câmeras inteligentes em todos os andares,
+
+366
+00:09:43,046 --> 00:09:44,815
+então a gente consegue perceber qualquer tipo de atividade?
+
+367
+00:09:44,914 --> 00:09:49,383
+É por movimentação também. Mas é muito curioso. Tem tem mui São Paulo.
+
+368
+00:09:49,393 --> 00:09:52,443
+É uma cidade muito diversa, muito rica, né, assim,
+
+369
+00:09:52,453 --> 00:09:54,804
+de experiências e de e de públicos.
+
+370
+00:09:54,814 --> 00:09:58,604
+Então a gente vai aprendendo que é quando você cria uma categoria, né?
+
+371
+00:09:58,614 --> 00:10:02,364
+Eu tinha também essa essa, eu acreditava no produto e não tem um espaço aqui,
+
+372
+00:10:02,374 --> 00:10:07,283
+São Paulo tem características muito similares a outras capitais globais densas,
+
+373
+00:10:07,294 --> 00:10:09,244
+em que self já é uma realidade, Porque não aqui?
+
+374
+00:10:09,254 --> 00:10:11,004
+Eu acho que o que falta é uma plataforma,
+
+375
+00:10:11,013 --> 00:09:46,650
+é um time que tem que criar essa demanda também,
+
+376
+00:09:46,659 --> 00:09:49,369
+mas é muito curioso tem tem mui São Paulo.
+
+377
+00:09:49,380 --> 00:09:50,849
+É uma cidade muito diversa.
+
+378
+00:09:50,859 --> 00:09:54,809
+Muito rica, né, assim, de experiências e de e de públicos.
+
+379
+00:09:54,820 --> 00:09:58,609
+Então a gente vai aprendendo que é quando você cria uma categoria, né?
+
+380
+00:09:58,619 --> 00:10:02,409
+Eu tinha também essa essa, eu acreditava no produto e não tem um espaço aqui,
+
+381
+00:10:02,419 --> 00:10:07,289
+São Paulo tem características muito similares a outras capitais globais densas,
+
+382
+00:10:07,299 --> 00:10:09,250
+em que self já é uma realidade, Porque não aqui?
+
+383
+00:10:09,260 --> 00:10:11,010
+Eu acho que o que falta é uma plataforma,
+
+384
+00:10:11,020 --> 00:10:14,591
+é um time que tem que criar essa demanda capital correto correto e tal,
+
+385
+00:10:14,601 --> 00:10:15,892
+e vamos trabalhar constantemente.
+
+386
+00:10:15,901 --> 00:10:18,492
+Deu certo, mas lá atrás tinha cem por cento de certeza,
+
+387
+00:10:18,502 --> 00:10:21,132
+não tinha o que eu aprendi de fato hoje
+
+388
+00:10:21,142 --> 00:10:25,171
+são vinte e cinco unidades onze mil clientes ativos,
+
+389
+00:10:25,182 --> 00:10:25,492
+né?
+
+390
+00:10:25,502 --> 00:10:30,372
+Nosso portfólio de clientes que tinha onze mil clientes, São Paulo é muito grande,
+
+391
+00:10:30,382 --> 00:10:32,331
+e São Paulo é um, é um.
+
+392
+00:10:32,341 --> 00:10:39,132
+É um mercado por si só, né? Enfim, então a aderência de tendências comportamentais!
+
+393
+00:10:39,142 --> 00:10:15,918
+São Paulo de fato é a cidade das oportunidades. e vamos trabalhar constantemente.
+
+394
+00:10:15,927 --> 00:10:18,478
+Deu certo, mas lá atrás, mas eu tinha cem por cento, de certeza,
+
+395
+00:10:18,487 --> 00:10:20,317
+é não tinha o que eu aprendi.
+
+396
+00:10:20,328 --> 00:10:25,797
+De fato hoje são vinte e cinco unidades, onze mil clientes ativos, né?
+
+397
+00:10:25,807 --> 00:10:28,958
+Portfólio de clientes que tinha onze mil clientes,
+
+398
+00:10:28,968 --> 00:10:32,317
+São Paulo é muito grande e São Paulo é um, é um.
+
+399
+00:10:32,328 --> 00:10:33,997
+É um mercado por si só, né?
+
+400
+00:10:34,007 --> 00:10:34,598
+Enfim,
+
+401
+00:10:34,607 --> 00:10:39,797
+então a aderência de tendências comportamentais São
+
+402
+00:10:39,807 --> 00:10:42,658
+Paulo de fato é a cidade das oportunidades
+
+403
+00:10:45,789 --> 00:10:47,929
+-- Ro
+-- Vai
+
+404
+00:10:59,210 --> 00:11:00,419
+Agora, nesse segundo bloco,
+
+405
+00:11:00,429 --> 00:11:03,479
+pra gente saber um pouco mais sobre o modelo mesmo Como é que a pessoa contrata?
+
+406
+00:11:03,489 --> 00:11:06,619
+Eu eu eu sou cliente da e eu e eu tenho uma experiência completa,
+
+407
+00:11:06,630 --> 00:11:08,299
+mas as pessoas que tão ouvindo é ela.
+
+408
+00:11:08,309 --> 00:11:11,280
+Ela acha que vai comprar pelo site, vai ter que ir lá pessoalmente.
+
+409
+00:11:11,289 --> 00:11:13,219
+Se ela comprar pelo site, ela já consegue armazenar.
+
+410
+00:11:13,229 --> 00:11:00,440
+Quanto que ela paga ou tem um corretor de pra esse segundo bloco.
+
+411
+00:11:00,450 --> 00:11:02,119
+A gente precisa saber um pouco mais sobre o modelo.
+
+412
+00:11:02,130 --> 00:11:04,000
+Mesmo como é que a pessoa contrata Eu eu eu sou
+
+413
+00:11:04,010 --> 00:11:06,599
+cliente da e eu e eu tenho uma experiência completa,
+
+414
+00:11:06,609 --> 00:11:08,320
+mas as pessoas que tão vindo é ela.
+
+415
+00:11:08,330 --> 00:11:11,280
+Ela acha que vai comprar pelo site, vai ter que ir lá pessoalmente.
+
+416
+00:11:11,289 --> 00:11:13,159
+Se ela comprar pelo site, ela já consegue armazenar.
+
+417
+00:11:13,169 --> 00:11:15,989
+-- Quanto que ela paga ou tem um corretor de
+-- aluguel?
+
+418
+00:11:16,000 --> 00:11:19,460
+Não, A gente foi no tempo aprimorando esse processo. Né?
+
+419
+00:11:19,469 --> 00:11:23,479
+Pra, enfim ter um menor atrito no processo, na experiência de compra possível.
+
+420
+00:11:23,489 --> 00:11:25,659
+Então, assim, desde o início, lá atrás,
+
+421
+00:11:25,669 --> 00:11:16,039
+onde de fato é cê tinha uma compra muito presencial aluguel?
+
+422
+00:11:16,049 --> 00:11:19,440
+Não, A gente foi no tempo aprimorando esse processo, né?
+
+423
+00:11:19,450 --> 00:11:23,469
+Pra, enfim ter um menor atrito no processo, na experiência de compra possível.
+
+424
+00:11:23,479 --> 00:11:25,679
+Então, assim, desde o início lá atrás,
+
+425
+00:11:25,690 --> 00:11:28,940
+onde de fato é se tinha uma compra muito presencial,
+
+426
+00:11:28,987 --> 00:11:32,518
+guiar um processo de venda você tinha trinta minutos,
+
+427
+00:11:32,528 --> 00:11:36,038
+Talvez até a pessoa chegar na idade, entender, ler os contratos etc.
+
+428
+00:11:36,047 --> 00:11:38,177
+Até hoje você tem uma contratação cem por
+
+429
+00:11:38,187 --> 00:11:40,797
+cento online pra boa parte dos nossos clientes.
+
+430
+00:11:40,807 --> 00:11:44,557
+Uma central de atendimento que faz esse suporte tem um
+
+431
+00:11:44,567 --> 00:11:47,197
+grupo centralizado que atende as nossas vinte e cinco unidades.
+
+432
+00:11:47,208 --> 00:11:49,197
+Um contrato absolutamente simplificado.
+
+433
+00:11:49,208 --> 00:11:54,487
+Assim que sendo um smartphone, faz um super simples,
+
+434
+00:11:54,497 --> 00:11:31,284
+cheio de infográficos e tal uma coisa bem moderna, guiar um processo de venda,
+
+435
+00:11:31,294 --> 00:11:34,734
+você tinha trinta minutos, Talvez até a pessoa chegar na idade, entender,
+
+436
+00:11:34,744 --> 00:11:36,054
+ler os contratos etc.
+
+437
+00:11:36,065 --> 00:11:38,174
+Até hoje você tem uma contratação cem por
+
+438
+00:11:38,184 --> 00:11:40,794
+cento online pra boa parte dos nossos clientes.
+
+439
+00:11:40,804 --> 00:11:45,494
+É uma central de atendimento que faz esse suporte, tem um grupo centralizado,
+
+440
+00:11:45,505 --> 00:11:47,174
+que atende as nossas vinte e cinco unidades.
+
+441
+00:11:47,184 --> 00:11:49,215
+É um contrato absolutamente simplificado.
+
+442
+00:11:49,224 --> 00:11:50,494
+Assim que sendo um smartphone,
+
+443
+00:11:50,505 --> 00:12:00,575
+faz um super simples de infográficos e tal uma coisa bem moderna, mensal.
+
+444
+00:12:00,585 --> 00:12:04,255
+Com o cancelamento, a qualquer tempo você pode aumentar o tamanho do espaço,
+
+445
+00:12:04,265 --> 00:12:05,455
+diminuir o tamanho do espaço.
+
+446
+00:12:05,466 --> 00:12:09,895
+Enfim, a ideia é que, de fato, é muito desassociado da ideia da locação.
+
+447
+00:12:09,906 --> 00:12:14,495
+Fico presa no contrato de locação tem um fiador, não tem multa de cancelamento.
+
+448
+00:12:14,505 --> 00:12:16,935
+Você usa o tempo que você precisar A gente de fato,
+
+449
+00:12:16,945 --> 00:12:22,536
+estruturou de uma maneira mais e mais em que a ideia, enquanto for funcional,
+
+450
+00:12:22,546 --> 00:12:23,435
+tem um uso, né?
+
+451
+00:12:23,445 --> 00:12:00,590
+Então, o processo de compra é muito simples, ele pode ser totalmente mensal.
+
+452
+00:12:00,599 --> 00:12:04,239
+Com o cancelamento, a qualquer tempo você pode aumentar o tamanho do espaço,
+
+453
+00:12:04,250 --> 00:12:05,469
+diminuir o tamanho do espaço.
+
+454
+00:12:05,479 --> 00:12:09,909
+Enfim, a ideia é que, de fato, é muito desassociado da ideia da locação.
+
+455
+00:12:09,919 --> 00:12:11,690
+Fico presa no contrato de locação.
+
+456
+00:12:11,700 --> 00:12:16,109
+Você tem um fiador não ter multa de cancelamento, Você usa o tempo que você precisar,
+
+457
+00:12:16,119 --> 00:12:20,780
+a gente de fato, estruturou de uma maneira mais e mais em que a ideia,
+
+458
+00:12:20,789 --> 00:12:23,450
+enquanto for funcional, tem um uso, né?
+
+459
+00:12:23,460 --> 00:12:29,874
+Então, o processo de compra é muito simples, ele pode ser totalmente o então, hoje,
+
+460
+00:12:29,883 --> 00:12:32,893
+até a questão do pagamento assinatura dos contratos,
+
+461
+00:12:32,903 --> 00:12:36,554
+que é o grande percentual dos nossos clientes.
+
+462
+00:12:36,564 --> 00:12:42,114
+Dessa forma, a grande maioria chega online ou, passando na rua,
+
+463
+00:12:42,124 --> 00:12:43,624
+reconhece a marca e tal, etc.
+
+464
+00:12:43,633 --> 00:12:46,153
+Tem um pouco de Walking mas percentualmente,
+
+465
+00:12:46,164 --> 00:12:47,554
+oitenta por cento dos nossos clientes,
+
+466
+00:12:47,564 --> 00:12:52,033
+chegam online e fazem todo o processo online, né Isso na pessoa física.
+
+467
+00:12:52,044 --> 00:12:58,254
+Na pessoa jurídica, se ainda tem um pouco dos que são os consultores imobiliários,
+
+468
+00:12:28,554 --> 00:12:29,304
+online.
+
+469
+00:12:29,315 --> 00:12:32,844
+Então hoje, até a questão do pagamento, a assinatura dos contratos e tal,
+
+470
+00:12:32,854 --> 00:12:36,525
+que é o grande percentual dos nossos clientes.
+
+471
+00:12:36,534 --> 00:12:42,125
+Dessa forma a grande maioria chega online ou passando na rua,
+
+472
+00:12:42,135 --> 00:12:43,625
+reconhece a marca e tal, etc.
+
+473
+00:12:43,635 --> 00:12:46,164
+Tem um pouco de walk, mas percentualmente,
+
+474
+00:12:46,174 --> 00:12:50,525
+oitenta por cento dos nossos clientes chegam online e fazem todo o processo online,
+
+475
+00:12:50,534 --> 00:12:53,724
+isso na pessoa física, na pessoa jurídica,
+
+476
+00:12:53,734 --> 00:12:58,265
+se ainda tem um pouco dos que são os consultores imobiliários.
+
+477
+00:12:58,322 --> 00:13:02,211
+então você tem demandas a gente tem na na, no nosso negócio de logística urbana,
+
+478
+00:13:02,221 --> 00:13:04,611
+os espaços então, pra situar aqui, né,
+
+479
+00:13:05,341 --> 00:13:09,052
+pessoa física, espaços de um metro quadrado, que é literalmente um armarinho, né?
+
+480
+00:13:09,062 --> 00:13:13,531
+Até cinquenta metros quadrados, mais ou menos uma sala, mesmo um, quase,
+
+481
+00:13:13,541 --> 00:13:14,822
+como uma sala etc.
+
+482
+00:13:14,831 --> 00:13:17,132
+De cinquenta a quinhentos metros quadrados.
+
+483
+00:13:17,142 --> 00:13:19,731
+A gente tem um produto intermediário, que a gente chama de né?
+
+484
+00:13:19,742 --> 00:13:24,771
+É esse é um produto pra mais, de fato ali de última meia milha,
+
+485
+00:13:24,781 --> 00:13:28,031
+então cê tem muita gente que trabalha com alta rotatividade,
+
+486
+00:12:58,330 --> 00:13:02,219
+Então você tem demandas a gente tem na na, no nosso negócio de logística urbana,
+
+487
+00:13:02,229 --> 00:13:04,619
+os espaços então pra situar aqui, né?
+
+488
+00:13:04,630 --> 00:13:07,500
+Seto, pessoa física, espaços de um metro quadrado,
+
+489
+00:13:07,510 --> 00:13:09,059
+que é literalmente um armarinho, né?
+
+490
+00:13:09,070 --> 00:13:13,539
+Até cinquenta metros quadrados mais ou menos uma sala, mesmo um, quase,
+
+491
+00:13:13,549 --> 00:13:14,820
+como uma sala, etc.
+
+492
+00:13:14,830 --> 00:13:17,140
+De cinquenta a quinhentos metros quadrados.
+
+493
+00:13:17,150 --> 00:13:19,739
+A gente tem um produto intermediário que a gente chama de né?
+
+494
+00:13:19,750 --> 00:13:24,780
+É esse é um produto pra mais de fato, ali de última meia milha,
+
+495
+00:13:24,789 --> 00:13:28,039
+então cê tem muita gente que trabalha com alta rotatividade,
+
+496
+00:13:28,099 --> 00:13:34,609
+gente que faz distribuição com bicicleta a pé ou alguém que é um estoque temporário,
+
+497
+00:13:34,619 --> 00:13:30,614
+Um exemplo gente que faz distribuição com bicicleta a
+
+498
+00:13:30,625 --> 00:13:34,614
+pé ou alguém que é um estoque temporário,
+
+499
+00:13:34,625 --> 00:13:36,510
+-- Um exemplo
+-- de estoque você daria um que
+
+500
+00:13:36,520 --> 00:13:39,349
+tem muita entrega do que que tem alta rotatividade
+
+501
+00:13:35,085 --> 00:13:37,424
+de estoque você daria um que tem muita entrega
+
+502
+00:13:37,434 --> 00:13:40,630
+-- do que que tem alta rotatividade
+-- muito diverso.
+
+503
+00:13:40,640 --> 00:13:43,349
+Tem reversa também, que é uma coisa que começa a crescer muito,
+
+504
+00:13:43,359 --> 00:13:45,570
+que é a logística da devolução.
+
+505
+00:13:45,580 --> 00:13:48,270
+E aí esse produto para voltar para o centro de distribuição
+
+506
+00:13:48,280 --> 00:13:50,700
+original às vezes não só tem questão de I I e,
+
+507
+00:13:50,710 --> 00:13:52,869
+mas é muito mais caro,
+
+508
+00:13:52,880 --> 00:13:55,710
+então ele já para um ponto de armazenagem mais
+
+509
+00:13:55,719 --> 00:13:40,635
+dentro da cidade para ser reforma e muito diverso.
+
+510
+00:13:40,645 --> 00:13:43,354
+Tem reversa também, que é uma coisa que começa a crescer muito,
+
+511
+00:13:43,364 --> 00:13:45,575
+que é a logística da devolução.
+
+512
+00:13:45,585 --> 00:13:48,955
+E aí esse produto para voltar para o centro de distribuição original,
+
+513
+00:13:48,965 --> 00:13:52,875
+às vezes não só tem questão de I I e, mas é muito mais caro.
+
+514
+00:13:52,885 --> 00:13:56,755
+Então ele já para um ponto de armazenagem mais dentro da cidade,
+
+515
+00:13:56,765 --> 00:13:58,927
+para ser reforma e vendido aí.
+
+516
+00:13:58,937 --> 00:14:00,578
+Então esse é um espaço entre cinquenta e
+
+517
+00:14:00,588 --> 00:14:02,127
+quinhentos metros quadrados e a partir de cinto.
+
+518
+00:14:02,138 --> 00:14:04,208
+Cem metros quadrados até dez mil metros quadrados.
+
+519
+00:14:04,218 --> 00:14:08,047
+É o nosso maior módulo, né, A gente tem trabalho, a logística urbana aí.
+
+520
+00:14:08,057 --> 00:14:09,288
+Esse é um tema que eu adoro,
+
+521
+00:14:09,297 --> 00:14:12,518
+porque assim é extremamente necessário pro
+
+522
+00:14:12,528 --> 00:14:14,567
+bom funcionamento dos centros urbanos.
+
+523
+00:14:14,578 --> 00:14:15,768
+Tem a ver com a G.
+
+524
+00:14:15,778 --> 00:14:16,968
+Posso ficar horas aqui falando,
+
+525
+00:14:16,978 --> 00:14:20,958
+mas tentando sintetizar as cidades não conseguem operar mais
+
+526
+00:14:20,968 --> 00:14:23,187
+com a estrutura de armazenagem que tinha antigamente.
+
+527
+00:14:23,197 --> 00:13:58,929
+A maneira de consumir o consumo online trouxe vendido aí,
+
+528
+00:13:58,940 --> 00:14:02,010
+então é um espaço entre quinze e quinhentos metros quadrados e a partir de cinto.
+
+529
+00:14:02,020 --> 00:14:04,210
+Cem metros quadrados até dez mil metros quadrados.
+
+530
+00:14:04,219 --> 00:14:08,049
+É o nosso maior módulo, né, A gente tem trabalho, a logística urbana aí.
+
+531
+00:14:08,059 --> 00:14:09,289
+Esse é um tema que eu adoro,
+
+532
+00:14:09,299 --> 00:14:12,520
+porque assim é extremamente necessário pro
+
+533
+00:14:12,530 --> 00:14:14,570
+bom funcionamento dos centros urbanos.
+
+534
+00:14:14,580 --> 00:14:18,450
+Tem a ver com a G. Posso ficar horas aqui falando, mas tentando sintetizar.
+
+535
+00:14:18,460 --> 00:14:21,090
+As cidades não conseguem operar mais com
+
+536
+00:14:21,099 --> 00:14:23,190
+a estrutura de armazenagem que tinha antigamente.
+
+537
+00:14:23,200 --> 00:14:27,590
+A maneira de consumir o consumo online trouxe
+
+538
+00:14:27,799 --> 00:14:29,890
+é o número de entregas, o consumo.
+
+539
+00:14:29,900 --> 00:14:34,090
+O consumo se fracionou de tal forma, né, que as vias arteriais da cidade tem.
+
+540
+00:14:34,099 --> 00:14:35,969
+Essa cidade se locomovendo com uma matriz, né?
+
+541
+00:14:35,979 --> 00:14:40,250
+De artérias é necessariamente tem que ter uma mudança de uso que ter a mobilidade.
+
+542
+00:14:40,260 --> 00:14:43,330
+As pessoas tem que morar sim, mais densas e mais perto, né?
+
+543
+00:14:43,340 --> 00:14:47,010
+E as ruas tem que começar a dar espaço pra mudar de entrega, né?
+
+544
+00:14:47,020 --> 00:14:50,849
+Cê tem em Nova York hoje uma situação que uma uma que desce uma sim uma não, né?
+
+545
+00:14:50,859 --> 00:14:54,890
+Uma Nova York tem aquele xadrez todo todo perpendicular, etc. Cê tem?
+
+546
+00:14:54,900 --> 00:14:29,890
+É pistas, ruas, né? É é o número de entregas, o consumo.
+
+547
+00:14:29,900 --> 00:14:34,090
+O consumo se fracionou de tal forma, né, que as vias arteriais da cidade tem.
+
+548
+00:14:34,099 --> 00:14:35,969
+Essa cidade se locomovendo com uma matriz, né?
+
+549
+00:14:35,979 --> 00:14:39,409
+De artérias é necessariamente tem que ter uma mudança de uso,
+
+550
+00:14:39,419 --> 00:14:40,250
+tem que ter a mobilidade.
+
+551
+00:14:40,260 --> 00:14:43,330
+As pessoas tem que morar sim, mais densas e mais perto, né?
+
+552
+00:14:43,340 --> 00:14:47,010
+E as ruas tem que começar a dar espaço pra mudar de entrega, né?
+
+553
+00:14:47,020 --> 00:14:50,849
+Cê tem em Nova York hoje uma situação que uma uma que desce uma sim uma não, né?
+
+554
+00:14:50,859 --> 00:14:54,890
+Uma Nova York tem aquele xadrez todo todo perpendicular, etc. Cê tem?
+
+555
+00:14:54,900 --> 00:15:01,096
+É pistas, ruas, né? É pra carros de entrega do ponto de vista funcional da cidade.
+
+556
+00:15:01,106 --> 00:15:02,096
+Se a gente pensa a cidade, né?
+
+557
+00:15:02,106 --> 00:15:05,656
+Como um organismo vivo que tem que que tem que operar com eficiência,
+
+558
+00:15:05,666 --> 00:15:09,455
+é muito mais funcional até a funcionalidade social.
+
+559
+00:15:09,466 --> 00:15:11,835
+Um veículo fazendo cinquenta entregas do que um carro com uma
+
+560
+00:15:11,846 --> 00:15:13,935
+pessoa se locomovendo de um ponto a um ponto B,
+
+561
+00:15:13,945 --> 00:15:14,216
+né?
+
+562
+00:15:14,226 --> 00:15:17,616
+Então, esse adensamento urbano que acontece em todas as capitais.
+
+563
+00:15:17,625 --> 00:15:20,575
+Ele requer que você tenha uma nova logística urbana e aí
+
+564
+00:15:20,585 --> 00:15:24,476
+a maneira mais eficiente de fazer isso é trazer os estoques.
+
+565
+00:15:24,486 --> 00:14:58,343
+Trazer às vezes pode ser também um pra carros
+
+566
+00:14:58,353 --> 00:15:01,093
+de entrega do ponto de vista funcional da cidade.
+
+567
+00:15:01,103 --> 00:15:02,103
+Se a gente pensa a cidade, né?
+
+568
+00:15:02,112 --> 00:15:05,703
+Como um organismo vivo que tem que que tem que operar com eficiência,
+
+569
+00:15:05,713 --> 00:15:09,453
+é muito mais funcional até a funcionalidade social.
+
+570
+00:15:09,463 --> 00:15:11,843
+Um veículo fazendo cinquenta entregas do que um carro com uma
+
+571
+00:15:11,853 --> 00:15:13,862
+pessoa se locomovendo de um ponto a um ponto B,
+
+572
+00:15:13,872 --> 00:15:14,182
+né?
+
+573
+00:15:14,192 --> 00:15:17,622
+Então, esse adensamento urbano que acontece em todas as capitais,
+
+574
+00:15:17,632 --> 00:15:20,583
+ele requer que você tenha uma nova logística urbana e aí
+
+575
+00:15:20,593 --> 00:15:24,482
+a maneira mais eficiente de fazer isso é trazer os estoques.
+
+576
+00:15:24,492 --> 00:15:30,661
+Trazer às vezes pode ser também um isso ou que faz algum tipo de manufatura etc.
+
+577
+00:15:30,671 --> 00:15:33,981
+Leve, não industrial, pesado, mais perto do centro urbano.
+
+578
+00:15:33,992 --> 00:15:37,981
+Então a moradias adensa e também essa infraestrutura tem que adensar isso.
+
+579
+00:15:37,992 --> 00:15:38,942
+É muito legal.
+
+580
+00:15:38,952 --> 00:15:42,502
+Uma coisa que há tempos eu falo, o que a gente chama de logística verde,
+
+581
+00:15:42,512 --> 00:15:47,341
+que tem um impacto significativo no tema de descarbonização dos centros urbanos.
+
+582
+00:15:47,351 --> 00:15:51,781
+Porque essa infraestrutura que permite as empresas um fraciona seus produtos
+
+583
+00:15:51,791 --> 00:15:54,461
+ou de onde partem os seus serviços em vários endereços,
+
+584
+00:15:54,471 --> 00:15:56,802
+ao invés de trabalhar em um endereço mais distante único,
+
+585
+00:15:27,185 --> 00:15:30,676
+isso ou que faz algum tipo de manufatura etc.
+
+586
+00:15:30,685 --> 00:15:33,995
+Leve, não industrial, pesado, mais perto do centro urbano.
+
+587
+00:15:34,005 --> 00:15:37,676
+Então a moradias adensa E também essa infraestrutura tem que adensar.
+
+588
+00:15:37,685 --> 00:15:38,955
+E isso é muito legal.
+
+589
+00:15:38,966 --> 00:15:42,515
+Uma coisa que há tempos eu falo, o que a gente chama de logística verde,
+
+590
+00:15:42,526 --> 00:15:47,315
+que tem um impacto significativo no tema de descarbonização dos centros urbanos.
+
+591
+00:15:47,325 --> 00:15:51,786
+Porque essa infraestrutura que permite as empresas um fraciona seus produtos
+
+592
+00:15:51,796 --> 00:15:54,435
+ou de onde partem os seus serviços em vários endereços,
+
+593
+00:15:54,445 --> 00:15:56,815
+ao invés de trabalhar em um endereço mais distante único,
+
+594
+00:15:57,119 --> 00:16:00,210
+é já permite uma reutilização de rotas e
+
+595
+00:16:00,219 --> 00:16:02,010
+os quilômetros rodados são muito mais eficientes.
+
+596
+00:16:02,020 --> 00:16:07,609
+Menos emissão e dois de de imóveis dessa infraestrutura mais dentro da cidade,
+
+597
+00:16:07,619 --> 00:16:12,070
+você começa a oferecer uma condição de que a frota seja elétrica.
+
+598
+00:15:57,130 --> 00:16:00,219
+é já permite uma reutilização de rotas e
+
+599
+00:16:00,229 --> 00:16:02,020
+os quilômetros rodados são muito mais eficientes.
+
+600
+00:16:02,030 --> 00:16:07,659
+Menos emissão e dois de de imóveis dessa infraestrutura mais dentro da cidade,
+
+601
+00:16:07,669 --> 00:16:12,000
+você começa a oferecer uma condição de que a frota seja elétrica.
+
+602
+00:16:12,380 --> 00:16:16,549
+Então, alguns dos nossos clientes, já principalmente multinacionais europeias,
+
+603
+00:16:16,559 --> 00:16:18,270
+já tá na conta, né?
+
+604
+00:16:18,280 --> 00:16:21,830
+Fazer a conta de emissão de tudo que ele de entrega, né?
+
+605
+00:16:21,840 --> 00:16:24,070
+De tudo que sai desse centro de distribuições urbanas
+
+606
+00:16:24,080 --> 00:16:25,969
+e já pensando em eletrificar toda a rota,
+
+607
+00:16:25,979 --> 00:16:28,229
+porque essas empresas têm compromissos sérios,
+
+608
+00:16:28,239 --> 00:16:31,510
+principalmente os europeias que estão mais à frente de que ah!
+
+609
+00:16:31,520 --> 00:16:35,359
+O impacto nos centros urbanos das operações deles tem que ser carlo, né, né?
+
+610
+00:16:35,369 --> 00:16:38,070
+Então é uma infraestrutura que né.
+
+611
+00:16:38,080 --> 00:16:14,219
+Do ponto de vista Então, alguns dos nossos clientes,
+
+612
+00:16:14,229 --> 00:16:18,299
+já principalmente multinacionais europeias, já tá na conta, né?
+
+613
+00:16:18,309 --> 00:16:21,820
+Fazer a conta de emissão de tudo que ele de entrega, né?
+
+614
+00:16:21,830 --> 00:16:24,059
+De tudo que sai desse centro de distribuições urbanas
+
+615
+00:16:24,070 --> 00:16:25,960
+e já pensando em eletrificar toda a rota,
+
+616
+00:16:25,969 --> 00:16:29,500
+porque essas empresas têm compromissos sérios, principalmente os europeias.
+
+617
+00:16:29,510 --> 00:16:31,500
+Estão mais à frente de que ah!
+
+618
+00:16:31,510 --> 00:16:35,349
+O impacto nos centros urbanos das operações deles tem que ser carbo, né?
+
+619
+00:16:35,359 --> 00:16:38,080
+Então é uma infraestrutura que né.
+
+620
+00:16:38,090 --> 00:16:43,695
+Do ponto de vista funciona da cidade, faz sentido do ponto de vista de regeneração,
+
+621
+00:16:43,705 --> 00:16:45,895
+de impacto ambiental, de impacto social.
+
+622
+00:16:45,906 --> 00:16:49,875
+Então isso acabou sendo um drive pra gente de propósito muito legal.
+
+623
+00:16:49,885 --> 00:16:52,575
+E aí em dois mil e dezoito dezessete para dezoito
+
+624
+00:16:52,585 --> 00:16:55,596
+foi quando a gente integrou os dois planos de negócio.
+
+625
+00:16:55,606 --> 00:17:00,216
+Então eu pivo o negócio em dezessete, que era mais voltado pra C, fazendo Sesto.
+
+626
+00:17:00,226 --> 00:17:04,135
+Agregamos a solução e hoje a maneira que a gente
+
+627
+00:17:04,145 --> 00:16:40,119
+se coloca se dá uma navegada no constitucional da cidade,
+
+628
+00:16:40,130 --> 00:16:44,880
+faz sentido do ponto de vista de regeneração, de impacto ambiental,
+
+629
+00:16:44,890 --> 00:16:45,919
+de impacto social.
+
+630
+00:16:45,929 --> 00:16:49,880
+Então, isso acabou sendo um drive pra gente de propósito muito legal.
+
+631
+00:16:49,890 --> 00:16:52,599
+E aí, em dois mil e dezoito dezessete para dezoito,
+
+632
+00:16:52,609 --> 00:16:55,679
+foi quando a gente integrou os dois planos de negócio, né?
+
+633
+00:16:55,690 --> 00:16:55,880
+Então,
+
+634
+00:16:55,890 --> 00:16:58,109
+eu pivo o negócio em dezessete que era mais
+
+635
+00:16:58,119 --> 00:17:02,119
+voltado pra C fazendo Sesto agregamos A solução,
+
+636
+00:17:02,130 --> 00:17:02,349
+né?
+
+637
+00:17:02,359 --> 00:17:06,001
+E hoje a maneira que a gente se coloca se dá uma navegada site.
+
+638
+00:17:06,011 --> 00:17:08,281
+É uma empresa de solução de armazenagem urbana.
+
+639
+00:17:08,290 --> 00:17:10,321
+Então a gente abraça de um metro quadrado,
+
+640
+00:17:10,332 --> 00:17:12,202
+trabalhando um pouco a mobilidade de pessoas.
+
+641
+00:17:12,212 --> 00:17:14,401
+A dez mil, eu trabalho na mobilidade de mercadorias.
+
+642
+00:17:14,411 --> 00:17:17,602
+Os dois fluxos tem que funcionar. Esse é o nosso, a nossa paixão.
+
+643
+00:17:17,612 --> 00:17:08,300
+Hoje, o de dez mil site, é uma empresa de solução de armazenagem urbana.
+
+644
+00:17:08,310 --> 00:17:10,339
+Então a gente abraça de um metro quadrado,
+
+645
+00:17:10,348 --> 00:17:12,300
+trabalhando um pouco a mobilidade de pessoas.
+
+646
+00:17:12,310 --> 00:17:16,260
+A dez mil trabalha na mobilidade de mercadorias. Os dois fluxos tem que funcionar.
+
+647
+00:17:16,270 --> 00:17:19,540
+-- Esse é o nosso a nossa paixão de dez mil.
+-- Eu fiquei mais curioso ainda.
+
+648
+00:17:19,550 --> 00:17:19,561
+São e-commerce grandes que usam como base eu fiquei mais curioso ainda.
+
+649
+00:17:19,571 --> 00:17:22,040
+-- São ecommerce grandes que usam como base
+-- todos
+
+650
+00:17:22,051 --> 00:17:23,561
+que todos grandes que você pode conhecer,
+
+651
+00:17:23,571 --> 00:17:26,192
+mas não só ecommerce Cê tem muita coisa de né?
+
+652
+00:17:26,202 --> 00:17:27,121
+Então,
+
+653
+00:17:27,131 --> 00:17:22,060
+assim bebida alimentação Farma Acho que as todos
+
+654
+00:17:22,069 --> 00:17:23,540
+que todos grandes que você pode conhecer,
+
+655
+00:17:23,550 --> 00:17:28,910
+mas não só ecommerce você tem muita coisa de bebida alimentação.
+
+656
+00:17:28,920 --> 00:17:36,667
+Farma Acho que as cadeias de vão percebendo a vantagem de você tá nas localizações.
+
+657
+00:17:36,677 --> 00:17:40,307
+Mais que que é o que? Que? Que? Que que segurou esse mercado?
+
+658
+00:17:40,317 --> 00:17:43,147
+Essa infraestrutura de não ser algo jamais presente na cidade,
+
+659
+00:17:43,157 --> 00:17:44,187
+os valores de locação?
+
+660
+00:17:44,197 --> 00:17:47,828
+Então, assim, esses imóveis que a gente tem conseguido comprar e sim são próprios.
+
+661
+00:17:47,838 --> 00:17:51,547
+Os imóveis pra desenvolver os C ds urbanos que a gente chama
+
+662
+00:17:51,557 --> 00:17:55,667
+eu concorro com prédios residenciais que fazem o uso do terreno,
+
+663
+00:17:55,677 --> 00:17:58,647
+verticaliza muito mais, muito mais eficiente.
+
+664
+00:17:32,150 --> 00:17:36,680
+de negócio vão percebendo a vantagem de você Tá nas localizações.
+
+665
+00:17:36,689 --> 00:17:40,319
+Mais que que é o que? Que? Que que segurou esse mercado?
+
+666
+00:17:40,329 --> 00:17:43,119
+Essa infraestrutura de não ser algo jamais presente na cidade,
+
+667
+00:17:43,130 --> 00:17:44,160
+os valores de locação?
+
+668
+00:17:44,170 --> 00:17:44,400
+Então,
+
+669
+00:17:44,410 --> 00:17:47,439
+assim esses imóveis que a gente tem conseguido comprar e sim são
+
+670
+00:17:47,449 --> 00:17:51,520
+próprios os imóveis pra desenvolver os CDS urbanos que a gente chama.
+
+671
+00:17:51,530 --> 00:17:55,680
+Eu concordo com prédios residenciais que fazem o uso do terreno,
+
+672
+00:17:55,689 --> 00:17:58,660
+verticaliza muito mais, muito mais eficiente.
+
+673
+00:17:58,723 --> 00:18:02,333
+Então pra que a gente consiga colocar um um CD urbano a gente
+
+674
+00:18:02,343 --> 00:18:03,823
+tem que ter obviamente um valor de
+
+675
+00:18:03,833 --> 00:18:06,134
+locação que permita rentabilizar o investimento.
+
+676
+00:18:06,144 --> 00:18:07,053
+Sempre houve.
+
+677
+00:18:07,063 --> 00:18:10,354
+Acho que dos agentes imobiliários investidores, um receio não pô,
+
+678
+00:18:10,364 --> 00:18:14,093
+a gente nunca vai conseguir alugar por um valor de um metro quadrado que permita, né?
+
+679
+00:18:14,104 --> 00:18:15,453
+Que justifique o investimento.
+
+680
+00:18:15,463 --> 00:18:19,634
+Então cê tinha aquela infraestrutura de logística mais ali no rodoanel, né?
+
+681
+00:18:19,644 --> 00:18:23,453
+A gente brinca o nosso Rodoanel é a marginal, o Rodoanel lá no pedágio é outro, rolê,
+
+682
+00:18:23,463 --> 00:18:24,463
+o nosso rolê é marginal.
+
+683
+00:18:24,473 --> 00:18:01,939
+O nosso Rodonal é Então pra que a gente consiga colocar um um CD urbano,
+
+684
+00:18:01,949 --> 00:18:03,750
+a gente tem que ter obviamente um valor
+
+685
+00:18:03,760 --> 00:18:06,140
+de locação que permita rentabilizar o investimento.
+
+686
+00:18:06,150 --> 00:18:07,060
+Sempre houve.
+
+687
+00:18:07,069 --> 00:18:10,349
+Acho que dos agentes imobiliários investidores, um receio não pô,
+
+688
+00:18:10,359 --> 00:18:13,140
+a gente nunca vai conseguir alugar por um valor de um metro quadrado,
+
+689
+00:18:13,150 --> 00:18:15,459
+que permita que justifique o investimento.
+
+690
+00:18:15,469 --> 00:18:19,640
+Então cê tinha aquela infraestrutura de logística mais ali no rodoanel, né?
+
+691
+00:18:19,650 --> 00:18:23,239
+A gente brinca o nosso Rodoanel é a marginal, né? O Rodoanel lá no pedágio é outro.
+
+692
+00:18:23,250 --> 00:18:25,239
+Rolê, o nosso rolê é marginal. Nosso Rodonal é
+
+693
+00:18:25,469 --> 00:18:28,199
+ainda que ela não seja um anel, mas ela é um meio anel ali.
+
+694
+00:18:28,209 --> 00:18:34,520
+Mas pouco a pouco a gente tá trazendo pra esse patamar de de de de de valor de locação,
+
+695
+00:18:34,530 --> 00:18:38,079
+porque as empresas começam a conseguir pôr na conta a vantagem.
+
+696
+00:18:38,089 --> 00:18:40,560
+Desde que cê tá num parque, né? Porque são parques a gente faz.
+
+697
+00:18:40,569 --> 00:18:43,959
+São condomínios logísticos na cidade e dividir todos os custos fixos.
+
+698
+00:18:43,969 --> 00:18:49,180
+Dividir compramos energia no mercado aberto é é Sabesp água a
+
+699
+00:18:49,189 --> 00:18:26,959
+compra no varejo ainda que ela não seja um anel,
+
+700
+00:18:26,969 --> 00:18:32,640
+mas ela é um meio anel ali, mas pouco a pouco a gente tá trazendo pra esse patamar de de,
+
+701
+00:18:32,650 --> 00:18:34,520
+de, de de valor de locação,
+
+702
+00:18:34,530 --> 00:18:38,079
+porque as empresas começam a conseguir pôr na conta a vantagem.
+
+703
+00:18:38,089 --> 00:18:40,560
+Desde que cê tá num parque, né? Que são parques a gente faz.
+
+704
+00:18:40,569 --> 00:18:43,959
+São condomínios logísticos na cidade e dividir todos os custos fixos.
+
+705
+00:18:43,969 --> 00:18:48,010
+Dividir compramos energia no mercado aberto Sabesp
+
+706
+00:18:48,020 --> 00:18:52,522
+água a compra no varejo no atacado,
+
+707
+00:18:52,532 --> 00:18:55,223
+perdão pra distribuir para os módulos pros liqui no varejo,
+
+708
+00:18:55,233 --> 00:18:57,442
+iluminação LED segurança.
+
+709
+00:18:57,453 --> 00:19:02,123
+Se o cara está fora de um parque, nos parques, no imóvel, apenas ele.
+
+710
+00:19:02,133 --> 00:19:05,562
+O custo de segurança muitas vezes reflete no valor de locação dez reais o
+
+711
+00:19:05,572 --> 00:19:08,363
+metro quadrado Ele fazia parte de um parque logístico onde ele faz uso,
+
+712
+00:19:08,373 --> 00:19:10,762
+tendo só um módulo de mil mil e quinhentos dois mil metros,
+
+713
+00:19:10,772 --> 00:19:13,282
+mas de uma de uma segurança vinte e quatro por cento com inteligência,
+
+714
+00:19:13,292 --> 00:18:52,522
+com câmera que pra entrar no atacado,
+
+715
+00:18:52,532 --> 00:18:55,223
+perdão pra distribuir para os módulos pros liqui no varejo,
+
+716
+00:18:55,233 --> 00:18:57,442
+iluminação LED segurança.
+
+717
+00:18:57,453 --> 00:19:02,123
+Se o cara tá fora de um parque, nos parques, no imóvel, apenas ele.
+
+718
+00:19:02,133 --> 00:19:04,603
+O custo de segurança muitas vezes reflete no valor de
+
+719
+00:19:04,613 --> 00:19:06,843
+locação dez reais o metro quadrado Ele fazia parte de
+
+720
+00:19:06,853 --> 00:19:08,802
+um parque logístico onde ele faz uso tendo só um
+
+721
+00:19:08,812 --> 00:19:10,762
+módulo de mil mil e quinhentos dois mil metros,
+
+722
+00:19:10,772 --> 00:19:13,963
+mas de uma de uma segurança vinte e quatro por cento com inteligência, com câmera,
+
+723
+00:19:13,973 --> 00:19:17,995
+com que pra entrar ostensiva, etc.
+
+724
+00:19:18,005 --> 00:19:22,046
+Só aí já fecha a conta. Enfim, tem uma série de ganhos, né?
+
+725
+00:19:22,056 --> 00:19:25,566
+Que a gente que a gente vem apostando nessa estratégia, E e tá dando certo,
+
+726
+00:19:25,576 --> 00:19:27,956
+acho que assim é é as empresas mais e
+
+727
+00:19:27,965 --> 00:19:31,245
+mais percebem o quanto elas conseguem destravar de valor,
+
+728
+00:19:31,255 --> 00:19:32,595
+de estar em localizações.
+
+729
+00:19:32,605 --> 00:19:33,706
+A gente chama de F, né?
+
+730
+00:19:33,715 --> 00:19:37,765
+De fato, mais próximos aos centros urbanos, ela era uma tendência.
+
+731
+00:19:37,776 --> 00:19:39,885
+Hoje eu consigo dizer talvez, porque a gente tá, enfim,
+
+732
+00:19:39,895 --> 00:19:41,326
+um ambiente um pouco mais à frente nisso.
+
+733
+00:19:41,336 --> 00:19:20,206
+Mas que já é uma realidade ostensiva, etc. Só aí já fecha a conta.
+
+734
+00:19:20,215 --> 00:19:22,046
+Enfim, tem uma série de ganhos, né?
+
+735
+00:19:22,056 --> 00:19:24,566
+Que a gente que a gente vem apostando nessa estratégia.
+
+736
+00:19:24,576 --> 00:19:25,566
+E e tá dando certo,
+
+737
+00:19:25,576 --> 00:19:27,956
+acho que assim é é as empresas mais e
+
+738
+00:19:27,965 --> 00:19:31,245
+mais percebem o quanto elas conseguem destravar de valor,
+
+739
+00:19:31,255 --> 00:19:33,706
+de estar em localizações a gente chama de F, né?
+
+740
+00:19:33,715 --> 00:19:37,765
+De fato, mais próximos aos centros urbanos, ela era uma tendência.
+
+741
+00:19:37,776 --> 00:19:39,885
+Hoje eu consigo dizer talvez, porque a gente tá, enfim,
+
+742
+00:19:39,895 --> 00:19:41,326
+um ambiente um pouco mais à frente nisso.
+
+743
+00:19:41,336 --> 00:19:42,426
+Mas que já é uma realidade
+
+744
+00:19:42,800 --> 00:19:44,650
+e acho que o produto chega mais rápido também, né?
+
+745
+00:19:44,660 --> 00:19:48,390
+É, a gente tem sentido isso também, o produto chega mais rápido quando cê pede, né?
+
+746
+00:19:48,400 --> 00:19:54,489
+É aí dentro daquelas coisas de de de problema é Eu acho que o pessoal vai ficar.
+
+747
+00:19:54,500 --> 00:19:59,890
+Falar só do, é aí, colocando aqui uns cê citou Nova Iorque,
+
+748
+00:19:59,900 --> 00:20:02,709
+e tal aí é às vezes eu acho que aqui em São
+
+749
+00:20:02,719 --> 00:20:05,459
+Paulo as entregas estão mais rápidas que muitas capitais do mundo.
+
+750
+00:20:05,469 --> 00:20:07,449
+Tem esse negócio do C m da delivery.
+
+751
+00:20:07,459 --> 00:20:08,170
+Aqui em São Paulo,
+
+752
+00:20:08,180 --> 00:19:44,650
+me parece às vezes melhor do que e acho que o produto chega mais rápido também, né?
+
+753
+00:19:44,660 --> 00:19:48,390
+É, a gente tem sentido isso também, o produto chega mais rápido quando cê pede, né?
+
+754
+00:19:48,400 --> 00:19:52,609
+É aí dentro daquelas coisas de de de problema é.
+
+755
+00:19:52,619 --> 00:19:55,520
+Eu acho que o pessoal vai ficar falar só do
+
+756
+00:19:55,530 --> 00:20:00,229
+é aí colocando aqui uns cê citou Nova York e tal
+
+757
+00:20:00,239 --> 00:20:02,949
+aí é às vezes eu acho que aqui em São Paulo
+
+758
+00:20:02,959 --> 00:20:05,479
+as entregas estão mais rápidas que muitas capitais do mundo.
+
+759
+00:20:05,489 --> 00:20:07,449
+Tem esse negócio do C m da delivery.
+
+760
+00:20:07,459 --> 00:20:08,170
+Aqui em São Paulo,
+
+761
+00:20:08,180 --> 00:20:11,031
+me parece às vezes melhor do que tem muito lugar bem impressionante.
+
+762
+00:20:09,832 --> 00:20:11,031
+tem muito lugar bem impressionante.
+
+763
+00:20:11,041 --> 00:20:16,401
+Não é impressionante assim o nosso comportamento de uso de compras online.
+
+764
+00:20:16,411 --> 00:20:20,482
+Então penetração do smartphone no Brasil é tempo de permanência online.
+
+765
+00:20:20,491 --> 00:20:22,151
+Enfim, você pode olhar o ranking, né?
+
+766
+00:20:22,161 --> 00:20:24,781
+Todos os aplicativos que são craques de tecnologia,
+
+767
+00:20:24,791 --> 00:20:29,161
+principalmente na cidade de São Paulo, nos centros urbanos, é sempre a gente,
+
+768
+00:20:29,171 --> 00:20:30,842
+sempre qualquer coisa.
+
+769
+00:20:30,852 --> 00:20:35,371
+O uso muito intensivo, enfim.
+
+770
+00:20:35,381 --> 00:20:36,781
+Então a gente tem empresas que,
+
+771
+00:20:11,041 --> 00:20:16,401
+Não é impressionante assim o nosso comportamento de uso de compras online.
+
+772
+00:20:16,411 --> 00:20:20,480
+Então, penetração do smartphone no Brasil é tempo de permanência online.
+
+773
+00:20:20,490 --> 00:20:21,921
+Enfim, você pode olhar o ranking,
+
+774
+00:20:21,931 --> 00:20:24,781
+Todos os aplicativos que são craques de tecnologia,
+
+775
+00:20:24,791 --> 00:20:28,480
+principalmente na cidade de São Paulo, nos centros urbanos,
+
+776
+00:20:28,490 --> 00:20:30,840
+é sempre a gente sempre qualquer coisa.
+
+777
+00:20:30,850 --> 00:20:35,370
+O uso muito intensivo, enfim.
+
+778
+00:20:35,380 --> 00:20:40,192
+Então, a gente tem empresas que enfim são líderes, que nasceram na na na na,
+
+779
+00:20:40,202 --> 00:20:42,592
+no São Paulo, ancoradas, das grandes centros brasileiras.
+
+780
+00:20:42,602 --> 00:20:44,312
+São eles tão tão expandindo tudo muito bem.
+
+781
+00:20:44,322 --> 00:20:48,151
+Então eu concordo com você, Acho que tem essa qualidade assim, já de de atendimento,
+
+782
+00:20:48,161 --> 00:20:49,552
+mas vai além da entrega do produto.
+
+783
+00:20:49,562 --> 00:20:53,332
+O que eu percebo assim também A gente se acostumou com uma qualidade de serviço, né?
+
+784
+00:20:53,342 --> 00:20:56,791
+Com S L A pra entrega do produto que você também quer no serviço, né?
+
+785
+00:20:56,802 --> 00:21:01,121
+Então, enfim sei lá, Uma Pô, a gente tem uma empresa de dá um aqui.
+
+786
+00:21:01,131 --> 00:21:03,812
+Um exemplo fora da caixa é de marcenaria.
+
+787
+00:20:36,864 --> 00:20:41,793
+enfim são líderes, que nasceram na na na na, no São Paulo, ancoradas,
+
+788
+00:20:41,803 --> 00:20:42,593
+das grandes centros brasileiras.
+
+789
+00:20:42,604 --> 00:20:44,313
+São eles tão tão expandindo tudo muito bem.
+
+790
+00:20:44,323 --> 00:20:48,154
+Então eu concordo com você, Acho que tem essa qualidade assim, já de de atendimento,
+
+791
+00:20:48,163 --> 00:20:49,553
+mas vai além da entrega do produto.
+
+792
+00:20:49,563 --> 00:20:53,313
+O que eu percebo assim também a gente se acostumou com uma qualidade de serviço, né?
+
+793
+00:20:53,323 --> 00:20:56,793
+Com L a pra entrega do produto que você também quer no serviço, né?
+
+794
+00:20:56,803 --> 00:21:01,124
+Então, enfim sei lá, Uma Pô, a gente tem uma empresa de dá um aqui.
+
+795
+00:21:01,134 --> 00:21:03,813
+Um exemplo fora da caixa é de marcenaria.
+
+796
+00:21:03,892 --> 00:21:07,782
+Começou com a gente, com um módulo de dois mil metros quadrados, numa localização,
+
+797
+00:21:07,792 --> 00:21:07,942
+né?
+
+798
+00:21:07,953 --> 00:21:11,822
+Na Zona Oeste ela tá com um módulo em cada empreendimento, pela cidade toda.
+
+799
+00:21:11,833 --> 00:21:15,392
+E o cara falou assim, porra, eu, antes saía cem por cento do Embu, que não é longe,
+
+800
+00:21:15,402 --> 00:21:17,142
+tomava vinte e cinco trinta quilômetros de São Paulo.
+
+801
+00:21:17,152 --> 00:21:19,822
+Eu sempre chegava atrasada no cliente, período de trabalho.
+
+802
+00:21:19,833 --> 00:21:21,743
+Eu, enfim, se eu precisasse voltar no meu ponto, né?
+
+803
+00:21:21,753 --> 00:21:23,302
+Na minha marcenaria, onde eu guardava tudo,
+
+804
+00:21:23,312 --> 00:21:25,863
+era mais um dia e aí o cliente se estressa?
+
+805
+00:21:25,873 --> 00:21:28,422
+Lembra que ela tem até uma né? Virou uma crença popular assim.
+
+806
+00:21:28,432 --> 00:21:30,843
+E isso vai fazer marcenaria, vai demorar três vezes mais, vai custar o dobro,
+
+807
+00:21:03,895 --> 00:21:07,786
+Começou com a gente, com um módulo de dois mil metros quadrados, numa localização,
+
+808
+00:21:07,796 --> 00:21:07,946
+né?
+
+809
+00:21:07,956 --> 00:21:11,826
+Na Zona Oeste ela tá com um módulo em cada empreendimento, pela cidade toda.
+
+810
+00:21:11,836 --> 00:21:15,385
+E o cara falou assim, Pô, eu, antes saía cem por cento do Embu, que não é longe,
+
+811
+00:21:15,395 --> 00:21:17,105
+tomava vinte e cinco trinta quilômetros de São Paulo.
+
+812
+00:21:17,115 --> 00:21:19,826
+Eu sempre chegava atrasada no cliente, período de trabalho.
+
+813
+00:21:19,836 --> 00:21:22,505
+Eu, enfim, se eu precisasse voltar no meu ponto, né, na minha marcenaria,
+
+814
+00:21:22,515 --> 00:21:24,526
+onde eu guardava tudo, era mais um dia.
+
+815
+00:21:24,536 --> 00:21:28,265
+E aí o cliente se estressa. Lembra que ela tem até uma né. Virou uma crença popular.
+
+816
+00:21:28,276 --> 00:21:30,845
+Assim, isso vai fazer marcenaria, vai demorar três vezes mais, vai custar o dobro,
+
+817
+00:21:30,923 --> 00:21:31,293
+né?
+
+818
+00:21:31,303 --> 00:21:33,854
+O cara entenderam e falou assim Pô, eu conseguindo fazer, né?
+
+819
+00:21:33,864 --> 00:21:39,413
+Um uma um Uma presença mais próxima dos bairros aonde eu tenho os clientes,
+
+820
+00:21:39,423 --> 00:21:42,894
+o meu nível de serviço cresceu tanto que começa a ganhar cliente.
+
+821
+00:21:42,904 --> 00:21:44,333
+Eu tenho um cliente satisfeito.
+
+822
+00:21:44,343 --> 00:21:48,014
+Imagina se você for um esse que é um setor, eu trouxe aqui na nave, por favor,
+
+823
+00:21:48,024 --> 00:21:48,563
+marceneiros.
+
+824
+00:21:48,573 --> 00:21:53,134
+Eu o maior respeito aqui, mas que que que era? É um setor que sempre tem essa esse, né?
+
+825
+00:21:53,144 --> 00:21:56,514
+Essa esse paradigma aqui essa questão nas costas, de que pô,
+
+826
+00:21:56,524 --> 00:21:57,774
+sempre atrasa et cetera e tal.
+
+827
+00:21:57,784 --> 00:21:33,858
+O quê né? O cara entenderam e falou assim Pô, eu conseguindo fazer, né?
+
+828
+00:21:33,868 --> 00:21:39,417
+Um uma um Uma presença mais próxima dos bairros aonde eu tenho os clientes,
+
+829
+00:21:39,427 --> 00:21:42,897
+o meu nível de serviço cresceu tanto que começa a ganhar cliente.
+
+830
+00:21:42,907 --> 00:21:44,338
+Eu tenho um cliente satisfeito.
+
+831
+00:21:44,348 --> 00:21:48,017
+Imagina se você for um, esse que é um setor, eu trouxe aqui na nave, por favor,
+
+832
+00:21:48,027 --> 00:21:48,567
+marceneiros.
+
+833
+00:21:48,578 --> 00:21:53,098
+Eu o maior respeito aqui, mas que que que era é um setor que sempre tem essa esse, né.
+
+834
+00:21:53,108 --> 00:21:57,248
+Essa esse paradigma aqui, essa questão nas costas, de que, pô, sempre atrás,
+
+835
+00:21:57,258 --> 00:21:57,777
+etc e tal?
+
+836
+00:21:57,787 --> 00:21:59,464
+O quê se diferencia? Né?
+
+837
+00:21:59,474 --> 00:22:02,805
+Pô, o cara tá em outro lugar, do negócio dele, ele vem, ele tá quatro anos com a gente!
+
+838
+00:22:02,814 --> 00:22:07,844
+Ele já cresceu Alocado em então! Serviço, né? Também tem um pouco. É um pouco disso.
+
+839
+00:22:07,854 --> 00:22:10,035
+Assim que tem um pouco de manufatura leve e tal.
+
+840
+00:22:10,045 --> 00:22:12,444
+Então tem algumas coisas muito fora da caixa, muito legal.
+
+841
+00:22:12,454 --> 00:21:59,469
+Eu eu eu eu eu eu acho se diferencia? Né?
+
+842
+00:21:59,479 --> 00:22:02,810
+Pô, o cara tá em outro lugar do negócio dele, ele vem, ele tá há quatro anos com a gente.
+
+843
+00:22:02,819 --> 00:22:07,849
+Ele já cresceu Alocado em então! Serviço, né? Também tem um pouco, é um pouco disso.
+
+844
+00:22:07,859 --> 00:22:09,949
+Assim que tem um pouco de manufatura leve e tal.
+
+845
+00:22:09,959 --> 00:22:12,449
+Então tem algumas coisas muito fora da caixa, muito legal.
+
+846
+00:22:12,459 --> 00:22:16,704
+-- Eu eu eu eu eu eu acho
+-- que é uma uma visão própria mesmo, de jornada, né?
+
+847
+00:22:16,714 --> 00:22:20,864
+Porque vocês trabalham muito bem, o prédio é a cor verde laranja.
+
+848
+00:22:20,875 --> 00:22:24,905
+É, vocês conseguem entender que a jornada o, a pessoa passa e fala que é isso aí.
+
+849
+00:22:14,060 --> 00:22:18,489
+que é uma uma visão própria mesmo, de jornada, né. Porque vocês trabalham muito bem.
+
+850
+00:22:18,500 --> 00:22:20,869
+O prédio é a cor verde laranja.
+
+851
+00:22:20,880 --> 00:22:24,910
+É, vocês conseguem entender que a jornada o a pessoa passa e fala que é isso aí.
+
+852
+00:22:24,985 --> 00:22:27,355
+E ele lembra do nome e fala Putz, é um armazenamento.
+
+853
+00:22:27,365 --> 00:22:29,676
+Essas jornadas vocês trabalharam, é foi,
+
+854
+00:22:29,686 --> 00:22:33,395
+foi intencional essa questão do ponto físico ser bonito,
+
+855
+00:22:33,406 --> 00:22:36,215
+não ter aquela cara de guarda móvel antigo.
+
+856
+00:22:36,225 --> 00:22:39,076
+E vocês conseguem enxergar a pessoa indo pro site ou pro APP
+
+857
+00:22:39,086 --> 00:22:26,602
+e E e fazendo E ele lembra do nome e fala Putz,
+
+858
+00:22:26,612 --> 00:22:27,362
+é um armazenamento.
+
+859
+00:22:27,371 --> 00:22:29,001
+Essa jornada, vocês trabalharam.
+
+860
+00:22:29,011 --> 00:22:33,401
+É foi, foi intencional essa questão do ponto físico ser bonito,
+
+861
+00:22:33,411 --> 00:22:37,802
+não ter aquela cara de guarda móvel antigo e vocês conseguem enxergar a pessoa
+
+862
+00:22:37,812 --> 00:22:41,332
+-- indo pro site ou pro APP e E e
+-- fazendo o booking lá Ah,
+
+863
+00:22:41,342 --> 00:22:42,761
+meu absolutamente assim.
+
+864
+00:22:42,771 --> 00:22:45,241
+Acho que era uma ideia é? E aí?
+
+865
+00:22:45,251 --> 00:22:50,082
+Eu posso até compreender aqui que alguns é as pessoas mais aprecias de arquitetura.
+
+866
+00:22:50,092 --> 00:22:42,755
+Talvez não sejam as as que mais o booking lá Ah, meu absolutamente assim.
+
+867
+00:22:42,765 --> 00:22:45,235
+Acho que era uma ideia é? E aí?
+
+868
+00:22:45,245 --> 00:22:50,076
+Eu posso até compreender aqui que alguns é as pessoas mais aprecias de arquitetura.
+
+869
+00:22:50,086 --> 00:22:55,626
+Talvez não sejam as as que mais que gostam mais das nossas fachadas, mas enfim,
+
+870
+00:22:55,636 --> 00:23:01,146
+a gente precisava trazer algum reconhecimento de marca e pro produto,
+
+871
+00:23:01,156 --> 00:23:03,827
+além da nossa companhia, inclusive pra solução que a gente estava oferecendo,
+
+872
+00:23:03,837 --> 00:23:08,707
+que é muito complementar as nossas cidades nos centros urbanos.
+
+873
+00:23:08,717 --> 00:23:10,046
+Então é boa pra cidade,
+
+874
+00:23:10,057 --> 00:23:15,506
+mas há um baixo custo e com o tempo começa a criar uma identificação.
+
+875
+00:23:15,516 --> 00:23:17,266
+Então era uma estratégia de puti.
+
+876
+00:23:17,276 --> 00:22:55,634
+A gente testou várias cores, que gostam mais das nossas fachadas, mas enfim,
+
+877
+00:22:55,644 --> 00:23:01,154
+a gente precisa trazer algum reconhecimento de marca e pro produto,
+
+878
+00:23:01,163 --> 00:23:03,833
+além da nossa companhia, inclusive pra solução que a gente estava oferecendo,
+
+879
+00:23:03,843 --> 00:23:08,713
+que é muito complementar as nossas cidades, dos centros urbanos.
+
+880
+00:23:08,723 --> 00:23:10,034
+Então é boa pra cidade,
+
+881
+00:23:10,043 --> 00:23:15,514
+mas há um baixo custo e com o tempo começa a a criar uma identificação.
+
+882
+00:23:15,524 --> 00:23:18,973
+Então era uma estratégia de A gente testou várias cores,
+
+883
+00:23:19,047 --> 00:23:23,397
+chegando a nossa combinação não óbvia de laranja verde hoje,
+
+884
+00:23:23,407 --> 00:23:28,328
+hoje a gente já está com com reconhecimento de marca de good bastante mais alto,
+
+885
+00:23:28,338 --> 00:23:31,358
+mas por muito tempo ainda é um verde, né?
+
+886
+00:23:31,368 --> 00:23:33,657
+Então acho que a gente conseguiu fazer essa
+
+887
+00:23:33,667 --> 00:23:37,508
+entrega inicial na jornada de ter um pouco.
+
+888
+00:23:37,517 --> 00:23:40,338
+E à medida que a gente foi crescendo, eu acho que foi validando,
+
+889
+00:23:40,348 --> 00:23:42,618
+pois funciona negócio é sério.
+
+890
+00:23:42,628 --> 00:23:45,498
+Tem mais uma, tem mais uma. A gente começou.
+
+891
+00:23:45,508 --> 00:23:22,666
+Acho que ao chegando a nossa combinação não óbvia de laranja verde.
+
+892
+00:23:22,676 --> 00:23:28,336
+Hoje hoje a gente já está com com reconhecimento de marca de acho bastante mais alto,
+
+893
+00:23:28,345 --> 00:23:31,365
+mas, por muito tempo, ainda é um Laranjo verde, né?
+
+894
+00:23:31,375 --> 00:23:31,715
+Então,
+
+895
+00:23:31,725 --> 00:23:37,515
+eu acho que a gente conseguiu fazer essa entrega inicial na jornada de ter um pouco.
+
+896
+00:23:37,526 --> 00:23:41,505
+E à medida que a gente foi crescendo, eu acho que foi validando, pois funciona.
+
+897
+00:23:41,515 --> 00:23:45,505
+Parece negócio sério. Tem mais uma tem mais uma. Então a gente começou.
+
+898
+00:23:45,515 --> 00:23:48,288
+Acho que ao Werner, né? Se constrói por várias verticais, né?
+
+899
+00:23:48,298 --> 00:23:51,729
+É difícil você identificar de onde tá vindo. Mas você vai perceber as ondas, né?
+
+900
+00:23:51,739 --> 00:23:55,048
+Você não tem um crescimento. Eu acho que a Warner não cresce linearmente, né?
+
+901
+00:23:55,058 --> 00:23:59,729
+São um são uns flo, né? Cê vai saltando de de patamar? A gente vai percebendo isso, né?
+
+902
+00:23:59,739 --> 00:24:01,788
+São nove anos e a gente vai ali.
+
+903
+00:24:01,798 --> 00:24:04,208
+Ciclos de dezoito meses, mais ou menos,
+
+904
+00:24:04,218 --> 00:24:06,609
+a gente vai criando patamares novos assim impressionante.
+
+905
+00:24:06,619 --> 00:24:09,208
+Aí mais oferta, a gente vai colocando mais loja,
+
+906
+00:24:09,218 --> 00:24:13,029
+isso vai dando mais reconhecimento no bairro, e aí a coisa vai se construindo.
+
+907
+00:23:46,088 --> 00:23:48,297
+Werner, né? Se constrói por várias verticais, né?
+
+908
+00:23:48,307 --> 00:23:51,657
+É difícil você identificar da onde tá vindo. Mas você vai perceber as ondas, né.
+
+909
+00:23:51,667 --> 00:23:55,057
+Cê não tem um crescimento! Eu acho que a Warner não cresce linearmente, né?
+
+910
+00:23:55,067 --> 00:23:58,578
+São um sal. São os f, né? Cê vai saltando de de patamar.
+
+911
+00:23:58,588 --> 00:23:59,738
+A gente vai percebendo isso, né?
+
+912
+00:23:59,748 --> 00:24:04,218
+São nove anos, a gente vai ali, ciclos de dezoito meses, mais ou menos,
+
+913
+00:24:04,228 --> 00:24:06,578
+a gente vai criando patamares novos assim impressionante.
+
+914
+00:24:06,588 --> 00:24:07,578
+Aí mais oferta!
+
+915
+00:24:07,588 --> 00:24:09,177
+A gente vai colocando mais loja,
+
+916
+00:24:09,187 --> 00:24:13,037
+isso vai dando mais reconhecimento no bairro e a coisa vai se construindo.
+
+917
+00:24:13,459 --> 00:24:18,270
+E eu acho interessante essa essa pergunta da jornada, porque olha só Tiago aqui, né.
+
+918
+00:24:18,280 --> 00:24:23,689
+Ah, acho que a Vin tem menos do que eu e você, Mas mesmo na vinde como meio de pagamento,
+
+919
+00:24:23,699 --> 00:24:27,670
+estando nessa classificação de fintech, se você tem alguém do C que usa um check out,
+
+920
+00:24:27,680 --> 00:24:30,310
+imagina que não fosse o transplante, ela percebe Ah, da vin, gostei.
+
+921
+00:24:30,319 --> 00:24:32,589
+Pode ser que um dia a pessoa leve pro B, né?
+
+922
+00:24:32,599 --> 00:24:35,729
+Se ela é uma pessoa desenvolvedora de tecnologia, programadora,
+
+923
+00:24:35,739 --> 00:24:37,869
+pessoal de finanças, fala Poxa, conhece essa história?
+
+924
+00:24:37,880 --> 00:24:41,270
+Vi gostei, usei três vezes recebi o boleto, não sei o que vamos contatar, né?
+
+925
+00:24:41,280 --> 00:24:16,420
+Então é aquele c E eu acho interessante essa essa pergunta da jornada,
+
+926
+00:24:16,430 --> 00:24:18,239
+porque olha só Tiago aqui, né.
+
+927
+00:24:18,250 --> 00:24:23,680
+Ah, acho que a Vin tem menos do que eu e você, Mas mesmo na vinda como meio de pagamento.
+
+928
+00:24:23,689 --> 00:24:27,670
+Estando nessa classificação de fintech, se você tem alguém do C que usa um check out,
+
+929
+00:24:27,680 --> 00:24:30,319
+imagina que não fosse o transplante, ela percebe Ah, da vin, gostei.
+
+930
+00:24:30,329 --> 00:24:32,599
+Pode ser que um dia a pessoa leve pro B, né?
+
+931
+00:24:32,609 --> 00:24:35,709
+Se ela é uma pessoa desenvolvedora de tecnologia, programadora,
+
+932
+00:24:35,719 --> 00:24:38,439
+uma pessoa de fala Poxa, conhece essa história, Vi gostei,
+
+933
+00:24:38,449 --> 00:24:41,280
+usei três vezes recebi o boleto, não sei o que vamos contatar, né?
+
+934
+00:24:41,290 --> 00:24:45,935
+Então é aquele c que o usuário da vi às vezes tem um.
+
+935
+00:24:45,944 --> 00:24:51,415
+Acho que pra vi é mais discreto para bebe na Alura isso em educação.
+
+936
+00:24:51,425 --> 00:24:55,775
+Isso é muito forte pra gente, então tanto que o B, c e bebi são bem balanceados.
+
+937
+00:24:55,785 --> 00:24:57,535
+As pessoas começam a estudar tecnologia.
+
+938
+00:24:57,545 --> 00:25:00,574
+Depois de anos depois de anos elas se tornam
+
+939
+00:25:00,584 --> 00:25:05,775
+lideranças se tornam diretoria t O ou tecle Poxa,
+
+940
+00:25:05,785 --> 00:25:08,395
+eu estudei lá atrás na Alura na Fiap não sei o
+
+941
+00:25:08,405 --> 00:25:11,694
+que hoje aqui eu tenho o pessoal que está aqui entrando,
+
+942
+00:25:11,704 --> 00:24:45,942
+fazendo um humor que o usuário da vi às vezes tem um.
+
+943
+00:24:45,952 --> 00:24:49,712
+Acho que pra Vin é mais discreto pro bebe na Alura
+
+944
+00:24:49,722 --> 00:24:53,141
+isso e em educação isso é muito forte pra gente.
+
+945
+00:24:53,151 --> 00:24:55,781
+Então tanto que o CEO bebi são bem balanceados.
+
+946
+00:24:55,791 --> 00:24:57,541
+As pessoas começam a estudar tecnologia.
+
+947
+00:24:57,552 --> 00:25:03,421
+Depois de anos depois de anos elas se tornam lideranças, se tornam diretoria,
+
+948
+00:25:03,432 --> 00:25:05,781
+t O ou tecle é poxa,
+
+949
+00:25:05,791 --> 00:25:09,261
+eu estudei lá atrás na Alura na Fiap não sei o que hoje aqui
+
+950
+00:25:09,271 --> 00:25:13,119
+eu tenho o pessoal que tá aqui entra fazendo um nessa tecnologia nova,
+
+951
+00:25:13,130 --> 00:25:20,160
+vou colocar pra estudar onde eu estudei e e então tem um óbvio pra gente, só que lento,
+
+952
+00:25:20,170 --> 00:25:24,160
+porque você precisa provar é entregar mas cria, né?
+
+953
+00:25:24,170 --> 00:25:26,959
+Em educação tem esse esse longo prazo.
+
+954
+00:25:26,969 --> 00:25:28,839
+Eu imagino que pra você esse momento lá em dois mil e
+
+955
+00:25:28,849 --> 00:25:32,329
+dezessete dois mil e dezoito que cê foi pra tenha sido excelente?
+
+956
+00:25:32,339 --> 00:25:34,959
+Incrível é que cê tenha que ter adaptado e pra mim
+
+957
+00:25:34,969 --> 00:25:37,680
+é curioso que você mantenha o C e tem o Bibi.
+
+958
+00:25:37,689 --> 00:25:39,729
+Então eu queria saber sobre essa decisão de manter
+
+959
+00:25:39,739 --> 00:25:13,083
+os dois e se há alguma nessa tecnologia nova,
+
+960
+00:25:13,093 --> 00:25:20,163
+vou colocar pra estudar onde eu estudei, e então tem um óbvio pra gente, só que lento,
+
+961
+00:25:20,173 --> 00:25:24,163
+porque você precisa provar, é entregar, mas cria, né?
+
+962
+00:25:24,173 --> 00:25:26,963
+Em educação tem esse esse longo prazo.
+
+963
+00:25:26,973 --> 00:25:28,843
+eu imagino que pra você esse momento lá em dois mil e
+
+964
+00:25:28,854 --> 00:25:32,333
+dezessete dois mil e dezoito que cê foi pra tenha sido excelente?
+
+965
+00:25:32,343 --> 00:25:34,963
+Incrível é que cê tenha que ter adaptado e pra mim
+
+966
+00:25:34,973 --> 00:25:37,683
+é curioso que você mantenha o C e tem o Bibi,
+
+967
+00:25:37,693 --> 00:25:39,884
+Então eu queria saber sobre essa decisão de manter os
+
+968
+00:25:39,894 --> 00:25:43,185
+dois e se há alguma uma coisa que parece,
+
+969
+00:25:43,194 --> 00:25:43,505
+poxa,
+
+970
+00:25:43,515 --> 00:25:45,635
+mas é porque a minha filha tinha o stories
+
+971
+00:25:45,645 --> 00:25:47,545
+aí então agora pra minha empresa então faz sentido.
+
+972
+00:25:47,555 --> 00:25:43,505
+Pra mim existe minimamente alguma coisa assim, uma coisa que parece poxa,
+
+973
+00:25:43,515 --> 00:25:45,625
+mas é porque a minha filha tinha o storie
+
+974
+00:25:45,635 --> 00:25:47,546
+aí então agora pra minha empresa então faz sentido.
+
+975
+00:25:47,556 --> 00:25:50,584
+-- Pra mim existe minimamente alguma coisa assim,
+-- existe?
+
+976
+00:25:50,594 --> 00:25:53,635
+Enfim, eu tenho uma crença muito forte. Já tô colhendo um pouco os frutos disso.
+
+977
+00:25:53,645 --> 00:25:57,744
+Mas eu acho que tem muito por vir, que foi da sinergia da entrega, né?
+
+978
+00:25:57,755 --> 00:25:58,905
+Porque não era óbvio, né?
+
+979
+00:25:58,915 --> 00:26:01,385
+Até pro Pros meus sócios pros meus investidores, no início, não.
+
+980
+00:26:01,395 --> 00:26:04,464
+Mas são dois B diferente, logística é uma coisa.
+
+981
+00:26:04,474 --> 00:26:07,375
+Se oto é outra, Como é que cê tá querendo colocar na mesma caixa?
+
+982
+00:26:07,385 --> 00:25:50,586
+Eu falei nós estamos entregando uma solução de armazenamento na cidade, existe?
+
+983
+00:25:50,595 --> 00:25:53,635
+Enfim! Eu tenho uma crença muito forte. Já tô colhendo um pouco os frutos disso.
+
+984
+00:25:53,645 --> 00:25:57,745
+Mas eu acho que tem muito por vir, que foi da sinergia, da entrega, né?
+
+985
+00:25:57,755 --> 00:25:58,906
+Porque não era óbvio, né?
+
+986
+00:25:58,916 --> 00:26:01,385
+Até pro Pros meus sócios pros meus investidores, no início, não.
+
+987
+00:26:01,395 --> 00:26:04,426
+Mas são dois B diferente, logística é uma coisa.
+
+988
+00:26:04,436 --> 00:26:07,375
+Se oto é outra, Como é que cê tá querendo colocar na mesma caixa?
+
+989
+00:26:07,385 --> 00:26:11,086
+Eu falei nós estamos entregando uma solução de armazenamento na cidade,
+
+990
+00:26:11,479 --> 00:26:11,849
+né?
+
+991
+00:26:11,859 --> 00:26:15,930
+Essa é a nossa entrega e a gente vai se colocar é que é o que nos nos guia,
+
+992
+00:26:15,939 --> 00:26:18,130
+que é o que nos dá prazer de trabalhar e tal como
+
+993
+00:26:18,140 --> 00:26:21,930
+um agente no ecossistema de tornar os centros urbanos mais eficientes.
+
+994
+00:26:21,939 --> 00:26:25,689
+E nas duas pontas, a gente tem a mesma proposta de valor. É por isso que vai dar certo.
+
+995
+00:26:25,699 --> 00:26:31,209
+Então tem o sle, né? Eu acho que a ideia é também na experiência de uso.
+
+996
+00:26:31,219 --> 00:26:33,449
+Conseguir deixar um registro, uma memória, né?
+
+997
+00:26:33,459 --> 00:26:36,459
+Que faça com que as pessoas sejam embaixadores aí fala?
+
+998
+00:26:36,469 --> 00:26:11,859
+Pô, cara, mano, é um negócio, vai ter um tal cê tá trabalhando aqui. né?
+
+999
+00:26:11,869 --> 00:26:15,939
+Essa é a nossa entrega e a gente vai se colocar é que é o que nos nos guia,
+
+1000
+00:26:15,949 --> 00:26:18,109
+que é o que nos dá prazer de trabalhar e tal como
+
+1001
+00:26:18,119 --> 00:26:21,900
+um agente no ecossistema de tornar os centros urbanos mais eficientes.
+
+1002
+00:26:21,910 --> 00:26:25,699
+E nas duas pontas, a gente tem a mesma proposta de valor e é por isso que vai dar certo,
+
+1003
+00:26:25,709 --> 00:26:27,939
+então tem o s, né?
+
+1004
+00:26:27,949 --> 00:26:31,199
+Eu acho que a ideia é também na experiência de uso.
+
+1005
+00:26:31,209 --> 00:26:33,459
+Conseguir deixar um registro uma memória, né?
+
+1006
+00:26:33,469 --> 00:26:36,219
+Que faça com que as pessoas sejam embaixadores.
+
+1007
+00:26:36,229 --> 00:26:39,920
+Aí fala Pô, cara, mas não é um negócio. Vai ter um tal cê tá trabalhando aqui?
+
+1008
+00:26:39,991 --> 00:26:44,942
+Mas até porque a experiência a expectativa no uso, né? Da experiência é tão baixa?
+
+1009
+00:26:44,952 --> 00:26:49,442
+É baixa, não precisa ser, não. Ah, eu não tô num hotel! Seis estrelas, não é isso?
+
+1010
+00:26:49,452 --> 00:26:53,161
+Mas eu tô trabalhando no Delta entre o que ele recebeu e o que ele esperava receber.
+
+1011
+00:26:53,171 --> 00:26:56,722
+Então, aqui, trabalhando com detalhes, coisas básicas aqui e tal.
+
+1012
+00:26:56,732 --> 00:27:00,592
+A nossa diretora de operações da Oi pela Laura veio de hospi.
+
+1013
+00:27:00,602 --> 00:27:02,161
+Ele veio de hotel de hotelaria,
+
+1014
+00:27:02,171 --> 00:27:05,842
+então era detalhes assim em vez da gente ter porra um aroma na recepção,
+
+1015
+00:27:05,852 --> 00:26:41,900
+uma plaquinha com o nome dos dos atendentes a mão Mas até porque a experiência,
+
+1016
+00:26:41,910 --> 00:26:43,949
+a expectativa no uso, né?
+
+1017
+00:26:43,959 --> 00:26:46,979
+Da experiência tão baixa é baixa, não precisa ser, não é.
+
+1018
+00:26:46,989 --> 00:26:49,449
+Eu não tô num hotel seis estrelas, não é isso?
+
+1019
+00:26:49,459 --> 00:26:53,150
+Mas eu tô trabalhando no Delta entre o que ele recebeu e o que ele esperava receber.
+
+1020
+00:26:53,160 --> 00:26:56,689
+Então, aqui, trabalhando com detalhes, coisas básicas aqui e tal.
+
+1021
+00:26:56,699 --> 00:27:00,579
+A nossa diretora de operações da Oi pela Laura veio de hospi.
+
+1022
+00:27:00,589 --> 00:27:02,170
+Ele veio de hotel de hotelaria,
+
+1023
+00:27:02,180 --> 00:27:05,849
+então era detalhes assim em vez da gente ter por um aroma na recepção,
+
+1024
+00:27:05,859 --> 00:27:10,593
+uma plaquinha com o nome dos dos atendentes a mão pra receber coisas básicas,
+
+1025
+00:27:10,604 --> 00:27:12,114
+porque eu não tava esperando isso, né?
+
+1026
+00:27:12,124 --> 00:27:12,813
+Num lugar.
+
+1027
+00:27:12,823 --> 00:27:16,573
+Então, a gente foi conseguindo trabalhar um pouco, esse bom registro do uso né?
+
+1028
+00:27:16,583 --> 00:27:21,154
+E aí você vai trabalhando embaixadores da marca é acho que no no, na pessoa jurídica,
+
+1029
+00:27:21,163 --> 00:27:22,473
+uma pessoa indicar outra e tal.
+
+1030
+00:27:22,484 --> 00:27:23,593
+Não sei o que talvez seja uma coisa menos,
+
+1031
+00:27:23,604 --> 00:27:27,514
+mas o tráfego no nosso site ele é um tráfego muito sinérgicos,
+
+1032
+00:27:27,524 --> 00:27:31,463
+Então a hora eu começo a A a cruzar todas as nossas evoluções, né?
+
+1033
+00:27:31,473 --> 00:27:33,634
+E e como o cliente ele navega numa área mais
+
+1034
+00:27:33,644 --> 00:27:35,984
+voltada à pessoa jurídica ou a pessoa física EC,
+
+1035
+00:27:35,994 --> 00:27:10,599
+a gente percebe pra receber coisas básicas.
+
+1036
+00:27:10,609 --> 00:27:12,119
+Porque eu não tava esperando isso, né?
+
+1037
+00:27:12,130 --> 00:27:12,819
+Num lugar,
+
+1038
+00:27:12,829 --> 00:27:16,540
+então a gente foi conseguindo trabalhar um pouco esse bom registro do uso, né?
+
+1039
+00:27:16,550 --> 00:27:18,880
+E aí você vai trabalhando embaixadores da marca?
+
+1040
+00:27:18,890 --> 00:27:22,479
+É acho que no no, na pessoa jurídica, uma pessoa indicar outra e tal.
+
+1041
+00:27:22,489 --> 00:27:23,599
+Não sei o que talvez seja uma coisa menos,
+
+1042
+00:27:23,609 --> 00:27:27,609
+mas o tráfego no nosso site ele é um tráfego muito sinérgicos,
+
+1043
+00:27:27,619 --> 00:27:31,449
+Então a hora eu começo a A a cruzar todas as nossas evoluções, né?
+
+1044
+00:27:31,459 --> 00:27:33,439
+E e como o cliente ele navega numa área
+
+1045
+00:27:33,449 --> 00:27:35,719
+mais voltada à pessoa jurídica ou a pessoa física?
+
+1046
+00:27:35,729 --> 00:27:35,959
+EC?
+
+1047
+00:27:35,969 --> 00:27:39,145
+A gente percebe que existe muito essa energia
+
+1048
+00:27:39,156 --> 00:27:41,845
+que existe muita interação entre esses dois mundos.
+
+1049
+00:27:41,855 --> 00:27:43,235
+E existe muito! Ops!
+
+1050
+00:27:43,245 --> 00:27:47,936
+Então assim a pessoa entra, a PJ entra com áreas menores e vai crescendo com o tempo.
+
+1051
+00:27:47,946 --> 00:27:51,706
+E aí você vai entrando em cadeias de negócios e você vai aprofundando!
+
+1052
+00:27:51,715 --> 00:27:52,865
+E aí você vai tendo indicações?
+
+1053
+00:27:52,875 --> 00:27:55,465
+Então membro member é uma super estratégia e
+
+1054
+00:27:55,475 --> 00:27:59,605
+essa essa entrega de uma experiência de uso,
+
+1055
+00:27:59,615 --> 00:28:01,026
+a referência de sinal.
+
+1056
+00:28:01,036 --> 00:28:02,306
+Então é uma locação, né?
+
+1057
+00:28:02,316 --> 00:28:03,826
+Vou alugar um espaço, um armazém,
+
+1058
+00:28:03,836 --> 00:27:38,829
+não tem nada sexy aqui que existe muito essa
+
+1059
+00:27:38,839 --> 00:27:41,849
+energia que existe muita interação entre esses dois mundos.
+
+1060
+00:27:41,859 --> 00:27:43,239
+E existe muito! Ops!
+
+1061
+00:27:43,250 --> 00:27:47,939
+Então assim a pessoa entra, a PJ entra com áreas menores e vai crescendo com o tempo.
+
+1062
+00:27:47,949 --> 00:27:51,709
+E aí você vai entrando em cadeias de negócios. Você vai aprofundando!
+
+1063
+00:27:51,719 --> 00:27:55,449
+E aí você vai tendo indicações, então me me é uma super estratégia.
+
+1064
+00:27:55,459 --> 00:28:01,030
+E essa, essa entrega de uma experiência de uso, a referência de sinal.
+
+1065
+00:28:01,040 --> 00:28:04,550
+Então, é uma locação, né? Pra alugar um espaço? Um armazém? Não tem nada!
+
+1066
+00:28:04,560 --> 00:28:07,618
+Sexo aqui, entregar alguma coisa um pouquinho diferente.
+
+1067
+00:28:07,628 --> 00:28:10,177
+Acho que também tem sido esse de verdade.
+
+1068
+00:28:10,187 --> 00:28:14,047
+Assim ser mesmo é num setor numa,
+
+1069
+00:28:14,057 --> 00:28:17,567
+numa solução que não tinha absolutamente esse tipo de posicionamento.
+
+1070
+00:28:17,578 --> 00:28:20,687
+É eu acho que tem sido um grandes pilares da gusto.
+
+1071
+00:28:20,697 --> 00:28:07,619
+Qual é o tamanho do entregar alguma coisa, um pouquinho diferente?
+
+1072
+00:28:07,630 --> 00:28:10,180
+Acho que também tem sido esse de verdade.
+
+1073
+00:28:10,189 --> 00:28:14,030
+Assim ser mesmo é num setor numa,
+
+1074
+00:28:14,040 --> 00:28:18,060
+numa solução que não tinha absolutamente esse tipo de posicionamento é
+
+1075
+00:28:18,069 --> 00:28:20,689
+eu acho que tem sido um grandes pilares da gusto.
+
+1076
+00:28:20,699 --> 00:28:24,738
+-- Qual é o tamanho do
+-- time hoje? Porque eu eu frequento o STO. E eu acho bem chuto assim.
+
+1077
+00:28:24,748 --> 00:28:29,978
+A operação automática parece quase né é eu faço a entrada via APP,
+
+1078
+00:28:29,988 --> 00:28:31,258
+abro a garagem vira app.
+
+1079
+00:28:31,267 --> 00:28:21,939
+Subo me auto atendo time hoje?
+
+1080
+00:28:21,949 --> 00:28:24,739
+Porque eu eu frequento o gusto, eu acho bem chuto assim.
+
+1081
+00:28:24,750 --> 00:28:29,979
+A operação automática parece quase né é eu faço a entrada via app,
+
+1082
+00:28:29,989 --> 00:28:31,260
+abro a garagem vira app.
+
+1083
+00:28:31,270 --> 00:28:33,959
+-- Subo me auto atendo,
+-- né? É, né? É,
+
+1084
+00:28:34,270 --> 00:28:37,800
+é essa ideia, né? Enfim é é armazenamento, né?
+
+1085
+00:28:37,810 --> 00:28:42,760
+A gente tem por unidade ali dois atendentes que estão ali na recepção
+
+1086
+00:28:42,770 --> 00:28:46,959
+pra pra fazer algum tipo de de atendimento ou alguma pessoa nova,
+
+1087
+00:28:46,969 --> 00:28:47,280
+etc.
+
+1088
+00:28:47,290 --> 00:28:49,680
+Mas a ideia é que a gente consiga te vender a funcionalidade.
+
+1089
+00:28:49,689 --> 00:28:54,140
+Então você tem acesso livre ao seu espaço, com uso de tecnologia e, enfim,
+
+1090
+00:28:54,150 --> 00:28:35,239
+a gente tá lido muito mais de uma forma é essa ideia, né?
+
+1091
+00:28:35,250 --> 00:28:38,719
+Enfim é é armazenamento né? A gente tem, né?
+
+1092
+00:28:38,729 --> 00:28:43,680
+Por unidade ali dois atendentes que estão ali na recepção pra pra né,
+
+1093
+00:28:43,689 --> 00:28:45,989
+fazer algum tipo de de atendimento?
+
+1094
+00:28:46,000 --> 00:28:47,300
+Ou alguma pessoa nova etc.
+
+1095
+00:28:47,310 --> 00:28:49,680
+Mas a ideia é que a gente consiga te vender a funcionalidade.
+
+1096
+00:28:49,689 --> 00:28:53,660
+Então você tem acesso livre ao seu espaço, com uso de tecnologia.
+
+1097
+00:28:53,670 --> 00:28:54,140
+E, enfim,
+
+1098
+00:28:54,150 --> 00:28:55,780
+a gente tá lido muito mais de uma forma
+
+1099
+00:28:55,864 --> 00:28:58,474
+passiva para atender uma universidade do que proativamente,
+
+1100
+00:28:58,484 --> 00:29:01,405
+tendo que que resolver algum problema, etc.
+
+1101
+00:29:01,415 --> 00:29:02,114
+Hoje nós temos cem,
+
+1102
+00:29:02,125 --> 00:29:06,635
+treze funcionários entre as unidades e o nosso time de escritório,
+
+1103
+00:29:06,645 --> 00:29:09,755
+porque o nosso processo é um processo, na verdade, completo.
+
+1104
+00:29:09,765 --> 00:29:12,834
+O que eu digo com isso é comprar o terreno, aprovar o projeto,
+
+1105
+00:29:12,844 --> 00:29:13,954
+desenvolver para arquitetura,
+
+1106
+00:29:13,964 --> 00:28:56,604
+aprovar o projeto construção e a operação passiva
+
+1107
+00:28:56,614 --> 00:28:58,484
+para atender a uma universidade do que proativamente,
+
+1108
+00:28:58,494 --> 00:29:01,425
+tendo que que resolver algum problema, etc.
+
+1109
+00:29:01,435 --> 00:29:02,125
+Hoje nós temos cem,
+
+1110
+00:29:02,135 --> 00:29:06,645
+treze funcionários entre as unidades e o nosso time de escritório,
+
+1111
+00:29:06,655 --> 00:29:09,765
+porque o nosso processo é um processo, na verdade, completo.
+
+1112
+00:29:09,775 --> 00:29:12,844
+O que eu digo com isso, é comprar o terreno, aprovar o projeto,
+
+1113
+00:29:12,854 --> 00:29:13,925
+desenvolver para arquitetura.
+
+1114
+00:29:13,935 --> 00:29:17,385
+Aprovar o projeto construção e operação
+
+1115
+00:29:17,650 --> 00:29:20,060
+A gente tem que trazendo nessa temporada. E curioso de novo, né?
+
+1116
+00:29:20,069 --> 00:29:23,140
+Nessa temporada a gente tá trazendo diversos empreendedores e empreendedoras,
+
+1117
+00:29:23,150 --> 00:29:27,060
+que tem esses que estão em áreas que seriam consideradas tradicionais.
+
+1118
+00:29:27,069 --> 00:29:31,699
+Eu tô construindo prédios e alugando espaço de uma forma mais eficiente,
+
+1119
+00:29:31,709 --> 00:29:35,079
+mais elegante, mais interessante, e e te nabo perfeito.
+
+1120
+00:29:35,089 --> 00:29:18,060
+Mas o business em si é algo que a gente
+
+1121
+00:29:18,069 --> 00:29:19,800
+tem que trazendo nessa temporada e curioso de novo,
+
+1122
+00:29:19,810 --> 00:29:20,060
+né?
+
+1123
+00:29:20,069 --> 00:29:23,300
+Nessa temporada a gente tá trazendo diversos empreendedores e empreendedoras que
+
+1124
+00:29:23,310 --> 00:29:27,060
+tem esses que estão em áreas que seriam consideradas tradicionais.
+
+1125
+00:29:27,069 --> 00:29:31,699
+Eu tô construindo prédios e alugando espaço de uma forma mais eficiente,
+
+1126
+00:29:31,709 --> 00:29:35,079
+mais elegante, mais interessante, e e te nabo perfeito.
+
+1127
+00:29:35,089 --> 00:29:37,479
+Mas o business em si é algo que
+
+1128
+00:29:37,739 --> 00:29:38,000
+né. A gente co é, é state ou algo próximo disso? Então eu gosto, né.
+
+1129
+00:29:38,010 --> 00:29:41,310
+A gente foi é, é state ou algo próximo disso?
+
+1130
+00:29:41,319 --> 00:29:42,709
+-- Então eu gosto,
+-- tá, tá,
+
+1131
+00:29:42,709 --> 00:29:47,069
+e eu acho que depois desse todo esse caos, o venture Capitol.
+
+1132
+00:29:47,079 --> 00:29:49,189
+Hoje em dia tu falou também, fala eu também gosto, também gosto,
+
+1133
+00:29:49,199 --> 00:29:52,469
+mas a gente já gostava muito antes de ser modinha, tá você também né?
+
+1134
+00:29:52,479 --> 00:29:53,930
+Você claramente é?
+
+1135
+00:29:53,939 --> 00:29:57,030
+Então queria entender esse do investimento,
+
+1136
+00:29:57,040 --> 00:29:46,359
+se é e eu acho que depois desse todo esse caos.
+
+1137
+00:29:46,369 --> 00:29:49,199
+O venture Capitol hoje em dia todo falou também fala eu também gosto, também gosto,
+
+1138
+00:29:49,209 --> 00:29:51,520
+mas a gente já gostava muito antes de ser modinha.
+
+1139
+00:29:51,530 --> 00:29:53,939
+Tá você também né? Você claramente é?
+
+1140
+00:29:53,949 --> 00:29:57,040
+Então queria entender esse do investimento,
+
+1141
+00:29:57,050 --> 00:30:00,910
+-- se é
+-- eu acho que cê cê tocou num ponto nevrálgico que é assim,
+
+1142
+00:30:00,920 --> 00:30:03,410
+Eu acho que o grande sucesso de você conseguir fazer um um,
+
+1143
+00:30:03,829 --> 00:30:03,989
+né?
+
+1144
+00:30:04,000 --> 00:30:00,880
+Um que requer muito capital eu acho que cê cê tocou num ponto nevrálgico que é assim,
+
+1145
+00:30:00,890 --> 00:30:04,000
+Eu acho que o grande sucesso de você conseguir fazer um VEN, né?
+
+1146
+00:30:04,010 --> 00:30:07,599
+Um B que requer muito capital é acertar o tipo do bolso, né?
+
+1147
+00:30:07,609 --> 00:30:09,880
+Então, que tipo de capital você tá acessando, né?
+
+1148
+00:30:09,890 --> 00:30:15,800
+No meu caso, tem a sorte de ter como sócio uma gestora de capital que chama-se,
+
+1149
+00:30:15,810 --> 00:30:21,239
+que é uma gestora quase que exclusiva de recursos do fundo de pensão americano, né?
+
+1150
+00:30:21,250 --> 00:30:24,250
+No caso é Washington State é, então, qual? Que é o meu passivo?
+
+1151
+00:30:24,260 --> 00:30:27,560
+Qual que é a minha obrigação no final do dia entregar dividendos, né?
+
+1152
+00:30:27,569 --> 00:30:07,432
+Pra garantir os compromissos de um fundo de pensão que são é acertar o tipo do bolso,
+
+1153
+00:30:07,442 --> 00:30:07,592
+né?
+
+1154
+00:30:07,602 --> 00:30:12,871
+Então, que tipo de capital você tá acessando, né? No meu caso é tem a sorte, né?
+
+1155
+00:30:12,881 --> 00:30:16,671
+De ter como sócio uma gestora de capital que chama-se é que é
+
+1156
+00:30:16,682 --> 00:30:21,112
+uma gestora é quase que exclusiva de recursos do fundo de pensão americano,
+
+1157
+00:30:21,121 --> 00:30:21,232
+né?
+
+1158
+00:30:21,241 --> 00:30:24,271
+No caso é Washington State FA? É? Então, qual? Que é o meu passivo?
+
+1159
+00:30:24,281 --> 00:30:27,552
+Qual que é a minha obrigação no final do dia entregar dividendos, né?
+
+1160
+00:30:27,562 --> 00:30:31,151
+Pra garantir os compromissos de um fundo de pensão
+
+1161
+00:30:30,869 --> 00:30:32,880
+nem sabe o que é divide essa palavra.
+
+1162
+00:30:31,161 --> 00:30:36,599
+-- nem sabe o que é divide essa
+-- palavra aí é Aí é não aposentadoria do profissional, do,
+
+1163
+00:30:36,609 --> 00:30:39,020
+do delegado, do professor, que eu tô colocando Isso.
+
+1164
+00:30:39,030 --> 00:30:39,859
+Isso é relevante.
+
+1165
+00:30:39,869 --> 00:30:43,040
+No final do dia, que a gente criou uma máquina de dividendos,
+
+1166
+00:30:43,050 --> 00:30:46,280
+então a gente aloca capital em real em tijolo.
+
+1167
+00:30:46,290 --> 00:30:48,920
+Opera esses imóveis, tem toda uma x i mobiliária,
+
+1168
+00:30:48,930 --> 00:30:55,520
+mas pra distribuir de forma resiliente, sustentável, contracíclica, etc.
+
+1169
+00:30:55,530 --> 00:30:37,274
+Um fluxo de dividendos, não a aposentadoria do profissional do, do delegado,
+
+1170
+00:30:37,284 --> 00:30:38,854
+do professor que eu estou colocando.
+
+1171
+00:30:38,864 --> 00:30:39,854
+Isso isso é relevante.
+
+1172
+00:30:39,864 --> 00:30:43,034
+No final do dia, que a gente criou uma máquina de dividendos,
+
+1173
+00:30:43,043 --> 00:30:47,463
+então a gente aloca capital em ativo real em tijolo, opera esses imóveis,
+
+1174
+00:30:47,473 --> 00:30:52,953
+temos toda uma matiz imobiliária, mas pra distribuir de forma resiliente,
+
+1175
+00:30:52,963 --> 00:30:55,543
+sustentável, contracíclica, etc.
+
+1176
+00:30:55,553 --> 00:30:57,933
+Um fluxo de dividendos, né?
+
+1177
+00:30:57,943 --> 00:30:57,939
+Porque a nossa obriga obriga do nosso capital né,
+
+1178
+00:30:57,949 --> 00:31:00,660
+Porque a nossa obrigação do a obrigação do nosso capital, né?
+
+1179
+00:31:00,670 --> 00:31:08,140
+O mandato do nosso capital é é, é, é a fonte de recurso pra honrar as aposentadorias,
+
+1180
+00:31:08,150 --> 00:31:08,380
+né?
+
+1181
+00:31:08,390 --> 00:31:11,819
+No nosso caso, no estado de Washington, então que tipo de capital cê tem?
+
+1182
+00:31:11,829 --> 00:31:01,556
+Eu acho que também é o que dá o do nosso
+
+1183
+00:31:01,566 --> 00:31:08,156
+capital é É a fonte de recurso pra honrar as aposentadorias,
+
+1184
+00:31:08,166 --> 00:31:08,355
+né?
+
+1185
+00:31:08,365 --> 00:31:11,836
+No nosso caso, no estado de Washington, então que tipo de capital você tem?
+
+1186
+00:31:11,845 --> 00:31:14,916
+Eu acho que também é o que dá um pouco o tom do jogo,
+
+1187
+00:31:14,926 --> 00:31:16,715
+de como é que você vai conseguir crescer,
+
+1188
+00:31:16,725 --> 00:31:19,056
+de que quando você vai ter de fim de dificuldade,
+
+1189
+00:31:19,066 --> 00:31:21,635
+trabalhar no Brasil mercado cíclico, né?
+
+1190
+00:31:21,645 --> 00:31:24,916
+Com plano de negócio de longo prazo, como é o nosso. É complicado.
+
+1191
+00:31:24,926 --> 00:31:28,696
+O vento bate frente, né? Na verdade, assim comecei em treze.
+
+1192
+00:31:13,209 --> 00:31:16,739
+um pouco o tom do jogo, de como é que você vai conseguir crescer,
+
+1193
+00:31:16,750 --> 00:31:20,219
+de que quanto você vai ter de fim de dificuldade, Trabalhar no Brasil.
+
+1194
+00:31:20,229 --> 00:31:24,219
+Mercado cíclico, né? Com plano de negócio de longo prazo, como é o nosso?
+
+1195
+00:31:24,229 --> 00:31:28,680
+É complicado o vento bate frente, né? Na verdade, assim eu comecei em treze,
+
+1196
+00:31:29,099 --> 00:31:31,979
+Aí a gente teve um primeiro mandato, meio mandato da Dilma.
+
+1197
+00:31:31,989 --> 00:31:34,589
+Depois a gente teve um pedacinho de mandato do Temer,
+
+1198
+00:31:34,599 --> 00:31:37,250
+Depo Crise política foi uma atrás da outra, né?
+
+1199
+00:31:37,260 --> 00:31:41,229
+É depois a gente enfim, crise econ, complicado.
+
+1200
+00:31:41,239 --> 00:31:45,630
+Então, assim eu acho que aqui fica muito claro pra mim é é qual é o teu tipo de capital.
+
+1201
+00:31:45,640 --> 00:31:49,750
+Então no nosso caso é esse, é o tipo de então, eu tenho a sorte de ter esses sócios.
+
+1202
+00:31:49,760 --> 00:31:51,310
+Eu no tempo fui né? Me diluindo Hoje?
+
+1203
+00:31:51,319 --> 00:31:54,869
+Eu sou um pequeno, um pequeno acionista, e ainda sou eu e fundador.
+
+1204
+00:31:54,880 --> 00:31:30,630
+Mas já com a companhia com liderança Aí a gente teve um primeiro mandato,
+
+1205
+00:31:30,640 --> 00:31:31,979
+meio mandato da Dilma.
+
+1206
+00:31:31,989 --> 00:31:34,589
+Depois a gente teve um pedacinho de mandato do Temer,
+
+1207
+00:31:34,599 --> 00:31:37,250
+Depo Crise política foi uma atrás da outra, né?
+
+1208
+00:31:37,260 --> 00:31:41,229
+É depois a gente enfim, crise econ, complicado.
+
+1209
+00:31:41,239 --> 00:31:45,630
+Então, assim eu acho que aqui fica muito claro pra mim é é qual é o teu tipo de capital.
+
+1210
+00:31:45,640 --> 00:31:49,750
+Então no nosso caso é esse, é o tipo de então, eu tenho a sorte de ter esses sócios.
+
+1211
+00:31:49,760 --> 00:31:51,310
+Eu no tempo fui né? Me diluindo Hoje?
+
+1212
+00:31:51,319 --> 00:31:54,869
+Eu sou um pequeno, um pequeno acionista, e ainda sou eu e fundador.
+
+1213
+00:31:54,880 --> 00:31:58,192
+Mas já com a companhia com liderança estabelecidas,
+
+1214
+00:31:58,203 --> 00:32:04,192
+com um time muito mais preparado para conduzir a perenidade do negócio e
+
+1215
+00:32:04,203 --> 00:32:07,792
+avesso a bater o vento de frente E a gente tem a oportunidade,
+
+1216
+00:32:07,802 --> 00:32:09,792
+então não teve em nenhum momento,
+
+1217
+00:32:09,802 --> 00:32:12,912
+a despeito dessas mini crises desses mini ciclos do Brasil,
+
+1218
+00:32:12,922 --> 00:32:15,152
+quem conhece tem que saber operar que não tem jeito.
+
+1219
+00:32:15,162 --> 00:32:18,192
+Dessa forma a gente não parou de crescer em nenhum momento,
+
+1220
+00:32:18,203 --> 00:32:20,993
+o que também é uma vantagem de se operar em mercado.
+
+1221
+00:32:21,003 --> 00:31:58,192
+De porque, como a gente é muito menos correlacionado estabelecidas,
+
+1222
+00:31:58,203 --> 00:32:04,192
+com um time muito mais preparado para conduzir a perenidade do negócio e
+
+1223
+00:32:04,203 --> 00:32:07,792
+avesso a bateu o vento de frente e a gente tem a oportunidade,
+
+1224
+00:32:07,802 --> 00:32:09,792
+então não teve em nenhum momento,
+
+1225
+00:32:09,802 --> 00:32:12,912
+a despeito dessas mini crises desses mini ciclos do Brasil,
+
+1226
+00:32:12,922 --> 00:32:15,152
+quem conhece tem que saber operar que não tem jeito.
+
+1227
+00:32:15,162 --> 00:32:18,233
+Dessa forma a gente não parou de crescer em nenhum momento,
+
+1228
+00:32:18,243 --> 00:32:21,672
+o que também é uma vantagem de se operar em mercado de nicho,
+
+1229
+00:32:21,682 --> 00:32:26,696
+porque como a gente é muito menos correlacionado crescimento da economia.
+
+1230
+00:32:26,706 --> 00:32:29,635
+Você está desenvolvendo uma demanda nova. Você está destravando.
+
+1231
+00:32:29,645 --> 00:32:32,156
+Você está trazendo uma solução para uma dor que ninguém estava olhando, né?
+
+1232
+00:32:32,166 --> 00:32:35,696
+Então isso te permite também de correlacionar teu
+
+1233
+00:32:35,706 --> 00:32:39,566
+crescimento o sucesso operacional do momento macro Nós temos
+
+1234
+00:32:39,576 --> 00:32:41,635
+um momento macro difícil no mundo Nós momento
+
+1235
+00:32:41,645 --> 00:32:44,316
+macro difícil no Brasil O vento é contra,
+
+1236
+00:32:44,326 --> 00:32:48,255
+mas te digo aqui que a gente vem crescendo aqui,
+
+1237
+00:32:48,265 --> 00:32:52,115
+Trimestre após trimestre de uma forma bem bem consistente,
+
+1238
+00:32:52,125 --> 00:32:53,015
+com bastante satisfeito.
+
+1239
+00:32:25,105 --> 00:32:28,686
+crescimento da economia, você está desenvolvendo uma demanda nova.
+
+1240
+00:32:28,696 --> 00:32:29,635
+Você está destravando.
+
+1241
+00:32:29,645 --> 00:32:32,156
+Você está trazendo uma solução para uma dor que ninguém estava olhando, né?
+
+1242
+00:32:32,166 --> 00:32:35,696
+Então isso te permite também de correlacionar teu
+
+1243
+00:32:35,706 --> 00:32:39,436
+crescimento o sucesso operacional do momento macro Nós
+
+1244
+00:32:39,446 --> 00:32:44,336
+temos um momento macro difícil no mundo nós macro difícil no Brasil O vento é contra,
+
+1245
+00:32:44,345 --> 00:32:49,635
+mas te digo aqui que a gente vem crescendo aqui, trimestre após trimestre,
+
+1246
+00:32:49,645 --> 00:32:52,076
+de uma forma bem bem consistente.
+
+1247
+00:32:52,086 --> 00:32:53,015
+Eu estou bastante satisfeito
+
+1248
+00:32:56,250 --> 00:32:58,489
+-- aí
+-- Brown Ray Aí
+
+1249
+00:33:00,660 --> 00:33:02,069
+nesse terceiro round,
+
+1250
+00:33:02,079 --> 00:33:07,069
+eu queria lembrar de você dar Ke e assinar o canal aqui da PM três Onde tá
+
+1251
+00:33:07,079 --> 00:33:10,430
+essa décima primeira temporada que tem conteúdo relacionado
+
+1252
+00:33:10,439 --> 00:33:11,949
+a muito do que a gente discutiu aqui,
+
+1253
+00:33:11,959 --> 00:33:15,890
+que vai de o K R A produtos digitais a negócios digitais
+
+1254
+00:33:00,770 --> 00:33:05,459
+nesse terceiro round eu queria lembrar de você dar like e assinar
+
+1255
+00:33:05,469 --> 00:33:09,099
+o canal aqui da PM três Onde tá essa décima primeira temporada
+
+1256
+00:33:09,109 --> 00:33:11,939
+que tem conteúdo relacionado a muito do que a gente discutiu aqui,
+
+1257
+00:33:11,949 --> 00:33:16,660
+que vai de o K R A produtos digitais a negócios digitais E Tiago,
+
+1258
+00:33:16,670 --> 00:33:19,260
+eu queria aproveitar então pra saber sobre você nesse,
+
+1259
+00:33:19,270 --> 00:33:23,439
+mas sobre você e seu trabalho, como você trabalha melhor de onde você veio,
+
+1260
+00:33:23,449 --> 00:33:24,290
+o que que você estudou?
+
+1261
+00:33:24,300 --> 00:33:25,619
+Onde você trabalhou?
+
+1262
+00:33:25,630 --> 00:33:19,265
+Até chegar na na E Tiago, eu queria aproveitar então pra saber sobre você nesse,
+
+1263
+00:33:19,275 --> 00:33:23,395
+Mas sobre você e seu trabalho, como você trabalha melhor é de onde você veio,
+
+1264
+00:33:23,405 --> 00:33:24,285
+o que que você estudou?
+
+1265
+00:33:24,295 --> 00:33:25,635
+Onde você trabalhou?
+
+1266
+00:33:25,645 --> 00:33:31,260
+-- Até chegar na na Goto
+-- Goto, fiz uma jornada de admissão de empresas na GV.
+
+1267
+00:33:31,270 --> 00:33:33,900
+Comecei no mercado financeiro,
+
+1268
+00:33:33,910 --> 00:33:38,060
+banco americano de investimento e aí com vinte anos mais
+
+1269
+00:33:38,069 --> 00:33:41,819
+ou menos ainda sempre em em bancos de investimento,
+
+1270
+00:33:41,829 --> 00:33:43,459
+comecei a fazer investimento imobiliário,
+
+1271
+00:33:43,469 --> 00:33:45,079
+ser gestor de investimento imobiliário,
+
+1272
+00:33:27,234 --> 00:33:31,295
+fiz uma jornada de admissão de empresas na GV é!
+
+1273
+00:33:31,305 --> 00:33:35,895
+Comecei no mercado financeiro, banco americano de investimento,
+
+1274
+00:33:35,905 --> 00:33:41,795
+e aí com vinte anos mais ou menos ainda, sempre em em bancos de investimento.
+
+1275
+00:33:41,805 --> 00:33:43,474
+Comecei a fazer investimento imobiliário,
+
+1276
+00:33:43,484 --> 00:33:45,055
+ser gestor de investimento imobiliário,
+
+1277
+00:33:45,420 --> 00:33:47,349
+de gestão, de investimento imobiliário.
+
+1278
+00:33:47,359 --> 00:33:50,869
+Passei também tem uma expertise de desenvolver ativos imobiliários,
+
+1279
+00:33:50,880 --> 00:33:55,290
+enfim né colocar não só o Capital, mas também construir, empreender, incorporar.
+
+1280
+00:33:55,300 --> 00:34:02,069
+Depois eu participei de uma startup que chama se HCor. Da Onde eu entrei ainda jovem.
+
+1281
+00:34:02,079 --> 00:34:08,780
+Mas já como o a gente fez um ciclo de cinco anos, vendemos pra um outro fundo de aí.
+
+1282
+00:34:08,790 --> 00:33:47,359
+Retornei pra banco de investimento de gestão, de investimento imobiliário.
+
+1283
+00:33:47,369 --> 00:33:50,880
+Passei também ter uma expertise de desenvolver ativos imobiliários,
+
+1284
+00:33:50,890 --> 00:33:55,300
+enfim né Colocar não só o capital, mas também construir, empreender, incorporar.
+
+1285
+00:33:55,310 --> 00:34:02,079
+Depois eu participei de uma startup, chama se HCor da onde eu entrei ainda jovem.
+
+1286
+00:34:02,089 --> 00:34:08,780
+Mas já como o a gente fez um ciclo de cinco anos, vendemos pra um outro fundo de aí.
+
+1287
+00:34:08,790 --> 00:34:10,780
+Retornei pra banco de investimento
+
+1288
+00:34:11,129 --> 00:34:17,458
+no momento, enfim, super intenso da economia, um momento mágico do banco.
+
+1289
+00:34:17,469 --> 00:34:18,938
+Trabalhei no BT G.
+
+1290
+00:34:18,949 --> 00:34:24,659
+Voltei a representar só mais o capital, muita operação de fusão, aquisição etc.
+
+1291
+00:34:24,668 --> 00:34:32,159
+Em ativos imobiliários até que eu quis empreender, eu acho que foi uma decisão de é.
+
+1292
+00:34:11,129 --> 00:34:17,458
+no momento, enfim, super intenso da economia, um momento mágico do banco.
+
+1293
+00:34:17,469 --> 00:34:18,938
+Trabalhei no BT G.
+
+1294
+00:34:18,949 --> 00:34:24,659
+Voltei a representar só mais o capital, muita operação de fusão, aquisição etc.
+
+1295
+00:34:24,668 --> 00:34:32,199
+Em ativos imobiliários até que eu quis empreender. Eu acho que foi uma decisão de
+
+1296
+00:34:32,530 --> 00:34:34,699
+percebi que eu tava num momento onde minha carreira de
+
+1297
+00:34:34,708 --> 00:34:38,100
+fato ela tava guinada pra uma carreira muito mais institucional,
+
+1298
+00:34:38,110 --> 00:34:43,219
+lucrativa, meritocrática, com excelentes experiências.
+
+1299
+00:34:43,228 --> 00:34:44,938
+Mas eu queria, enfim,
+
+1300
+00:34:44,949 --> 00:34:48,580
+colocar me colocar a serviço de algo diferente é empreender pra
+
+1301
+00:34:48,590 --> 00:34:51,860
+mim ter um componente de pessoas que me me move.
+
+1302
+00:34:51,870 --> 00:34:53,438
+Sou apaixonado, etc.
+
+1303
+00:34:32,550 --> 00:34:35,719
+Percebi que eu tava num momento onde a minha carreira, de fato ela tava guinada.
+
+1304
+00:34:35,728 --> 00:34:41,080
+Pra uma carreira muito mais institucional é lucrativa, meritocrática,
+
+1305
+00:34:41,090 --> 00:34:43,199
+com excelentes experiências.
+
+1306
+00:34:43,208 --> 00:34:44,918
+Mas eu queria, enfim,
+
+1307
+00:34:44,929 --> 00:34:48,560
+colocar me colocar a serviço de algo diferente é empreender pra
+
+1308
+00:34:48,570 --> 00:34:51,840
+mim ter um componente de pessoas que me me move.
+
+1309
+00:34:51,850 --> 00:34:53,418
+Sou apaixonado, etc.
+
+1310
+00:34:53,770 --> 00:34:58,580
+E aí? Então, em treze é usando dum conhecimento que eu já tinha, né?
+
+1311
+00:34:58,590 --> 00:35:02,020
+Assim de de ler o mercado, enxergar tal Achei essa oportunidade,
+
+1312
+00:35:02,030 --> 00:35:05,699
+achei que era Enfim, uma coisa que funcionava, e aí fiz essa.
+
+1313
+00:35:05,709 --> 00:35:07,540
+Fiz essa esse movimento.
+
+1314
+00:35:07,550 --> 00:35:10,830
+Logo depois captei com o fundo de dos recursos pro primeiro round,
+
+1315
+00:35:10,840 --> 00:35:12,979
+depois com outro fundo pro segundo round.
+
+1316
+00:35:12,989 --> 00:34:58,580
+Hoje a gente tá, E aí, então, em treze é usando dum conhecimento que eu já tinha, né.
+
+1317
+00:34:58,590 --> 00:35:02,020
+Assim de de ler o mercado, enxergar tal. Achei essa oportunidade.
+
+1318
+00:35:02,030 --> 00:35:05,699
+Achei que era Enfim, uma coisa que funcionava, e aí fiz essa.
+
+1319
+00:35:05,709 --> 00:35:07,540
+Fiz essa esse movimento.
+
+1320
+00:35:07,550 --> 00:35:10,830
+Logo depois captei com o fundo de dos recursos pro primeiro round,
+
+1321
+00:35:10,840 --> 00:35:12,979
+depois com outro fundo pro segundo round.
+
+1322
+00:35:12,989 --> 00:35:13,760
+Hoje a gente tá,
+
+1323
+00:35:14,080 --> 00:35:14,090
+ah, no indo pro quarto round, de captação da companhia, a gente queria entrar ah,
+
+1324
+00:35:14,100 --> 00:35:16,459
+no indo pro quarto round, de captação da companhia,
+
+1325
+00:35:16,469 --> 00:35:18,250
+-- a gente queria entrar
+-- também um pouco do seu hobby.
+
+1326
+00:35:18,260 --> 00:35:22,209
+Assim é tem uma curiosidade assim, que é uma, é realmente uma curiosidade muito,
+
+1327
+00:35:22,219 --> 00:35:25,209
+muito legal é que você, por algum motivo na sua história,
+
+1328
+00:35:25,219 --> 00:35:28,530
+aí cê virou figurante de filme e de série.
+
+1329
+00:35:28,540 --> 00:35:18,250
+É isso mesmo? Soube eu soube alguma coisa. também um pouco do seu hobby.
+
+1330
+00:35:18,260 --> 00:35:22,209
+Assim é tem uma curiosidade assim, que é uma é realmente uma curiosidade muito,
+
+1331
+00:35:22,219 --> 00:35:25,209
+muito legal é que você, por algum motivo na sua história,
+
+1332
+00:35:25,219 --> 00:35:28,899
+aí cê virou figurante de filme e de série, É isso mesmo?
+
+1333
+00:35:28,909 --> 00:35:35,379
+-- Soube eu soube alguma coisa
+-- Eu soube dessa aí também internet tem dessa, né?
+
+1334
+00:35:35,389 --> 00:35:39,469
+Imagina que a turma de tecnologia toda foi achar na internet que quiser, né?
+
+1335
+00:35:39,479 --> 00:35:43,250
+Só acabou de cha de de porra, não sei o que e tal vai sair.
+
+1336
+00:35:43,260 --> 00:35:35,379
+Acho que eu já disse Eu soube dessa aí também internet tem dessas, né?
+
+1337
+00:35:35,389 --> 00:35:39,010
+Imagina que a turma de tecnologia toda foi achar na internet que quiser,
+
+1338
+00:35:39,020 --> 00:35:43,250
+né Só acabou no chat de de porra, Não sei o que e tal vai sair.
+
+1339
+00:35:43,260 --> 00:35:46,788
+Acho que eu já disse Eu dizia alguma matéria não, eu. Eu estudei na Austrália isso.
+
+1340
+00:35:46,798 --> 00:35:48,518
+Mas na época da faculdade estamos lá.
+
+1341
+00:35:48,528 --> 00:35:53,827
+Em dois mil é por um tempo e depois eu quis ficar mais um tempo em Sydney,
+
+1342
+00:35:53,837 --> 00:35:56,068
+país maravilhoso, as melhores memórias.
+
+1343
+00:35:56,077 --> 00:35:57,827
+E aí cê tem que se virar nos trinta, né?
+
+1344
+00:35:57,837 --> 00:36:01,968
+E aí eu lembro que mas encurtando muito a história aqui que eu fui abordado,
+
+1345
+00:36:01,978 --> 00:36:04,187
+uma vez andando na rua, no centro de Sidney,
+
+1346
+00:36:04,197 --> 00:36:06,808
+por uma pessoa que fazia Casti de figuração.
+
+1347
+00:36:06,818 --> 00:36:08,607
+É engraçado que eu tava com o cabelo meio longo
+
+1348
+00:36:08,617 --> 00:36:10,667
+como eu tô agora e aí ele falou assim não.
+
+1349
+00:36:10,677 --> 00:35:45,590
+Nós temos um casting que é pra é você a sua Eu dizia alguma matéria não, eu.
+
+1350
+00:35:45,600 --> 00:35:48,520
+Eu estudei na Austrália isso. Mas na época da faculdade estamos lá.
+
+1351
+00:35:48,530 --> 00:35:53,830
+Em dois mil é por um tempo e depois eu quis ficar mais um tempo em Sydney,
+
+1352
+00:35:53,840 --> 00:35:56,070
+país maravilhoso, as melhores memórias.
+
+1353
+00:35:56,080 --> 00:35:57,830
+E aí cê tem que se virar nos trinta, né?
+
+1354
+00:35:57,840 --> 00:36:01,969
+E aí eu lembro que mas encurtando muito a história aqui que eu fui abordado,
+
+1355
+00:36:01,979 --> 00:36:04,189
+uma vez andando na rua, no centro de Sidney,
+
+1356
+00:36:04,199 --> 00:36:06,790
+por uma pessoa que fazia Casti de figuração.
+
+1357
+00:36:06,800 --> 00:36:08,600
+É engraçado que eu tava com o cabelo meio longo
+
+1358
+00:36:08,610 --> 00:36:10,669
+como eu tô agora e aí ele falou assim não,
+
+1359
+00:36:10,679 --> 00:36:16,246
+Nós temos um casting que é pra é você a sua e tal, que é um casting de Star Wars, né?
+
+1360
+00:36:16,256 --> 00:36:18,805
+Cê tem um metro e noventa e quatro cabelão tal.
+
+1361
+00:36:18,815 --> 00:36:21,446
+Bah, não sei o que até consegui perceber, né.
+
+1362
+00:36:21,456 --> 00:36:24,166
+Onde que ele tava enxergando algum tipo de mas voltei pra casa,
+
+1363
+00:36:24,176 --> 00:36:25,325
+tal morava com uma turma tal.
+
+1364
+00:36:25,335 --> 00:36:26,085
+Não sei o que né?
+
+1365
+00:36:26,095 --> 00:36:30,025
+E falei comentei os cara, e o cara quer te capturar pra te vender o book?
+
+1366
+00:36:30,035 --> 00:36:33,456
+E aí fica nisso? Ele é um clássico, o cara é fotógrafo.
+
+1367
+00:36:33,466 --> 00:36:37,805
+É no dia seguinte eu faço o mesmo caminho pra né Eu trabalhava também,
+
+1368
+00:36:37,815 --> 00:36:42,125
+num num café etc e tal pra moleque vinte!
+
+1369
+00:36:42,135 --> 00:36:16,209
+E aí encontrei a mesma pessoa. e tal, que é um casting de Star Wars, né?
+
+1370
+00:36:16,219 --> 00:36:18,800
+Cê tem um metro e noventa e quatro cabelão tal.
+
+1371
+00:36:18,810 --> 00:36:21,449
+Bah, não sei o que até consegui perceber, né.
+
+1372
+00:36:21,459 --> 00:36:24,169
+Onde que ele tava enxergando algum tipo de mas voltei pra casa,
+
+1373
+00:36:24,179 --> 00:36:26,090
+tal morava com uma turma tal não sei o que e, né?
+
+1374
+00:36:26,100 --> 00:36:30,030
+E falei comentei os cara, e o cara quer te capturar pra te vender o book?
+
+1375
+00:36:30,040 --> 00:36:33,459
+E aí fica nisso? Ele é um clássico, o cara é fotógrafo.
+
+1376
+00:36:33,469 --> 00:36:36,639
+É no dia seguinte eu faço o mesmo caminho pra né Eu
+
+1377
+00:36:36,649 --> 00:36:42,149
+trabalhava também num num café etc e tal pra moleque vinte!
+
+1378
+00:36:42,159 --> 00:36:43,590
+E aí encontrei a mesma pessoa.
+
+1379
+00:36:43,654 --> 00:36:47,464
+Tô falando sério, aí o cara veio pá, eu falei Então tá bom! E como é que funciona?
+
+1380
+00:36:47,474 --> 00:36:49,303
+Ele falou assim Não custa seiscentos dólares pra fazer.
+
+1381
+00:36:49,313 --> 00:36:51,624
+O booking, eu falei Então foi o seguinte eu vou te pagar mil.
+
+1382
+00:36:51,634 --> 00:36:54,144
+Mas como você tem muita certeza que cê vai me colocar lá,
+
+1383
+00:36:54,154 --> 00:36:57,343
+os primeiros mil que eu ganhar são seus e eu te pago zero de entrada.
+
+1384
+00:36:57,354 --> 00:37:01,614
+O cara ficou meio assim. Então tô tô! Tô desmontando, né? Falei oh se era um véu!
+
+1385
+00:37:01,624 --> 00:37:05,684
+Caiu o cara, topou, fizemos e aí, eu, por uns três quatro,
+
+1386
+00:37:05,694 --> 00:37:09,944
+porque cê tinha um estúdio muito, tem ainda em si, que é o Fox e aí estavam fazendo.
+
+1387
+00:37:09,954 --> 00:37:13,444
+Depois eu fiz, fiz, participei da figuração, não fiz nada,
+
+1388
+00:36:43,659 --> 00:36:46,629
+Aí eu falei tô falando sério, Aí o cara veio pá, eu falei Então, tá bom!
+
+1389
+00:36:46,639 --> 00:36:47,830
+E como é que funciona? Ele falou assim.
+
+1390
+00:36:47,840 --> 00:36:49,620
+Não custa seiscentos dólares pra fazer o Booking,
+
+1391
+00:36:49,629 --> 00:36:51,600
+eu falei Então faz o seguinte eu vou te pagar mil.
+
+1392
+00:36:51,610 --> 00:36:54,149
+Mas como cê tem muita certeza que cê vai me colocar lá?
+
+1393
+00:36:54,159 --> 00:36:57,350
+Os primeiros mil que eu ganhar são seus e eu te pago o zero de entrada.
+
+1394
+00:36:57,360 --> 00:37:00,550
+O cara ficou meio assim então pô, tô tô! Tô desmontando, né?
+
+1395
+00:37:00,560 --> 00:37:05,679
+Eu falei oh, se era um véu caiu aí o cara topou, fizemos e aí, eu, por uns três quatro,
+
+1396
+00:37:05,689 --> 00:37:09,949
+porque cê tinha um estúdio muito, tem ainda em si, que é o Fox e aí estavam fazendo.
+
+1397
+00:37:09,959 --> 00:37:13,449
+Depois eu fiz, fiz, participei da figuração, não fiz não é nada.
+
+1398
+00:37:13,511 --> 00:37:21,471
+eu e treze os outros, mas Black Star Wars e assim sair de uma saí de uma coisa.
+
+1399
+00:37:21,481 --> 00:37:23,882
+Eu lembro aquela sei lá. Sete dólares e cinquenta a hora, né?
+
+1400
+00:37:23,892 --> 00:37:28,162
+De trabalhar um pouquinho em cafés pra algo que era cinquenta dólares a hora.
+
+1401
+00:37:28,172 --> 00:37:30,281
+E você ficava lá sentado muitas vezes nem te chamava.
+
+1402
+00:37:30,291 --> 00:37:32,802
+Era o máximo e tal no meio dos estúdios e tal.
+
+1403
+00:37:32,812 --> 00:37:36,302
+Então foi uma época boa, meio perdida, foi uma época boa,
+
+1404
+00:37:36,312 --> 00:37:15,389
+mas fiquei com curiosidade aqui E o que Eu e treze os outros,
+
+1405
+00:37:15,399 --> 00:37:21,479
+mas Black Star Wars e assim sair de uma saí de uma coisa.
+
+1406
+00:37:21,489 --> 00:37:23,889
+Eu lembro aquela sei lá. Sete dólares e cinquenta a hora, né?
+
+1407
+00:37:23,899 --> 00:37:27,689
+De trabalhar um pouquinho em cafés pra algo que era cinquenta dólares
+
+1408
+00:37:27,699 --> 00:37:30,290
+a hora e cê ficava lá sentado muitas vezes nem te chamava.
+
+1409
+00:37:30,300 --> 00:37:34,830
+Era o máximo e tal no meio dos estúdios e tal. Então foi uma época boa, meio perdida.
+
+1410
+00:37:34,840 --> 00:37:36,310
+Foi uma época boa,
+
+1411
+00:37:36,320 --> 00:37:40,882
+-- mas fiquei com curiosidade aqui e o que
+-- que você faz no dia a dia fora da assim?
+
+1412
+00:37:40,892 --> 00:37:42,481
+-- Cê falou que que cê faz no dia a dia fora da assim? Cê falou que
+-- pedala tal, né?
+
+1413
+00:37:42,491 --> 00:37:42,489
+Ah, eu ah, pedala tal, né?
+
+1414
+00:37:42,500 --> 00:37:43,310
+Ah, eu ah,
+
+1415
+00:37:43,370 --> 00:37:46,760
+cuidar da saúde física e mental é condição
+
+1416
+00:37:46,770 --> 00:37:49,610
+cena eno senão a gente não consegue sustentar,
+
+1417
+00:37:49,620 --> 00:37:53,820
+não consegue direcionar a colher conflito, desmontar.
+
+1418
+00:37:53,830 --> 00:37:55,780
+Atenção, não adianta empreender é isso.
+
+1419
+00:37:55,790 --> 00:37:59,860
+Acho que se colocar no papel de liderança é saber absorver bastante
+
+1420
+00:37:59,870 --> 00:38:04,820
+coisa e aí tem que ter onde destravar onde você tem,
+
+1421
+00:38:04,830 --> 00:38:06,979
+que desopilar tudo isso e não se acumula muito pra cima.
+
+1422
+00:38:06,989 --> 00:38:10,620
+Acho que o esporte é uma coisa, sem dúvida. Eu sou praticante de yoga.
+
+1423
+00:38:10,629 --> 00:38:12,199
+Gosto muito, há muito tempo.
+
+1424
+00:38:12,209 --> 00:37:47,590
+Acho que enfim, cuidar da saúde física e mental é condição cena econo,
+
+1425
+00:37:47,600 --> 00:37:53,030
+senão a gente não consegue sustentar, não consegue direcionar a colher conflito,
+
+1426
+00:37:53,040 --> 00:37:55,770
+desmontar atenção, não adianta empreender isso.
+
+1427
+00:37:55,780 --> 00:37:58,270
+Acho que se colocar no papel de liderança é saber
+
+1428
+00:37:58,280 --> 00:38:04,229
+absorver bastante coisa e aí tem que ter onde destravar!
+
+1429
+00:38:04,239 --> 00:38:05,729
+Onde você tem, que depilar tudo isso.
+
+1430
+00:38:05,739 --> 00:38:09,260
+Se não se acumula muito pra assim, acho que o esporte é uma coisa sem dúvida.
+
+1431
+00:38:09,270 --> 00:38:13,169
+Eu sou praticante de yoga. Gosto muito, há muito tempo acho que enfim,
+
+1432
+00:38:13,419 --> 00:38:18,229
+é segunda-feira. Acho que das cinco e meia às sete da manhã que a se puder.
+
+1433
+00:38:18,239 --> 00:38:22,290
+Mas é minha prática já há muitos anos e assim a semana começa com outra clareza. É.
+
+1434
+00:38:22,300 --> 00:38:26,989
+Mas acho que meu maior prazer de verdade recentemente, assim minha vida mudou.
+
+1435
+00:38:27,000 --> 00:38:30,879
+É é ser pai, cara. Eu tenho uma filha de cinco anos.
+
+1436
+00:38:30,889 --> 00:38:14,830
+É, vamos mostrar pra ela esse vídeo e falar filha, eu falei de você, é segunda-feira.
+
+1437
+00:38:14,840 --> 00:38:18,229
+Acho das cinco e meia às sete da manhã que se puder,
+
+1438
+00:38:18,239 --> 00:38:22,270
+mas é minha prática já há muitos anos e assim a semana começa com outra clareza.
+
+1439
+00:38:22,280 --> 00:38:26,989
+É. Mas acho que meu maior prazer de verdade recentemente, assim minha vida mudou.
+
+1440
+00:38:27,000 --> 00:38:31,090
+É é ser pai, cara. Eu tenho uma filha de cinco anos.
+
+1441
+00:38:31,100 --> 00:38:33,409
+É, vamos mostrar pra ela esse vídeo e falar filha, eu falei de você,
+
+1442
+00:38:33,780 --> 00:38:37,989
+mas mudou minha vida assim E eu eu eu monto toda a minha jornada honestamente assim,
+
+1443
+00:38:38,000 --> 00:38:38,949
+muito em função disso.
+
+1444
+00:38:38,959 --> 00:38:42,250
+Hoje. Assim, então a gente tem uma, é uma sorte de ser tudo meio perto.
+
+1445
+00:38:42,260 --> 00:38:45,290
+A escola dela é três quadras literalmente de escritório é,
+
+1446
+00:38:45,300 --> 00:38:48,370
+a gente tem a sorte também de as atividades extra curricular no clube,
+
+1447
+00:38:48,379 --> 00:38:52,709
+que são quatro, é tudo assim meio, blocos, E aí eu escapo Vou a pé.
+
+1448
+00:38:52,719 --> 00:38:55,949
+Ela sai três e meia. De repente eu faço uma surpresa, tô ali é?
+
+1449
+00:38:55,959 --> 00:38:58,909
+Aí eu levo no clube e volto, né? Só perco trinta minutos, mas consegui.
+
+1450
+00:38:58,919 --> 00:38:35,709
+Tá mas mudou minha vida assim E eu eu
+
+1451
+00:38:35,719 --> 00:38:37,989
+eu monto toda a minha jornada honestamente assim,
+
+1452
+00:38:38,000 --> 00:38:38,949
+muito em função disso.
+
+1453
+00:38:38,959 --> 00:38:42,250
+Hoje. Assim, então a gente tem uma, é uma sorte de ser tudo meio perto.
+
+1454
+00:38:42,260 --> 00:38:45,290
+A escola dela é três quadras literalmente do escritório é,
+
+1455
+00:38:45,300 --> 00:38:47,909
+a gente tem a sorte também de as atividades extracurriculares.
+
+1456
+00:38:47,919 --> 00:38:52,709
+No clube, que são quatro, é tudo assim meio, blocos, E aí eu escapo Vou a pé.
+
+1457
+00:38:52,719 --> 00:38:56,280
+Ela sai três e meia. De repente eu faço uma surpresa, tô ali é aí.
+
+1458
+00:38:56,290 --> 00:38:57,550
+Eu levo no clube e volto, né?
+
+1459
+00:38:57,560 --> 00:39:00,986
+Se eu perco trinta minutos, mas conseguir tá qualidade incrível e tal.
+
+1460
+00:39:00,996 --> 00:39:03,506
+E tem sido assim. Só melhora. Só melhor assim.
+
+1461
+00:39:03,516 --> 00:39:06,805
+Acho que é o meu maior prazer, Hoje mesmo é é ser pai de verdade.
+
+1462
+00:39:06,815 --> 00:39:03,508
+A gente qualidade, incrível e tal. E tem sido assim. Só melhora, só melhor assim.
+
+1463
+00:39:03,518 --> 00:39:06,847
+Acho que é o meu maior prazer. Hoje mesmo é é ser pai de verdade.
+
+1464
+00:39:06,857 --> 00:39:08,746
+-- A gente
+-- tá gravando essa temporada e sempre
+
+1465
+00:39:08,756 --> 00:39:12,105
+surge algumas curiosidades de empreendedores e assim,
+
+1466
+00:39:12,115 --> 00:39:12,726
+de produtos.
+
+1467
+00:39:12,736 --> 00:39:16,506
+E a gente costuma ou consome de um nem foi o caso aqui, né.
+
+1468
+00:39:16,516 --> 00:39:22,456
+E teve um episódio que teve uma, uma empresa que trabalha com vestuário.
+
+1469
+00:39:22,466 --> 00:39:07,867
+E o Dantas deu informações íntimas sobre qual tá gravando essa
+
+1470
+00:39:07,877 --> 00:39:12,087
+temporada e sempre surge algumas curiosidades de empreendedores e assim,
+
+1471
+00:39:12,097 --> 00:39:12,728
+de produtos.
+
+1472
+00:39:12,738 --> 00:39:16,508
+E a gente costuma ou consome de um, que nem foi o caso aqui, né?
+
+1473
+00:39:16,518 --> 00:39:22,458
+E teve um episódio que teve uma Ah, uma empresa que trabalha com vestuário.
+
+1474
+00:39:22,468 --> 00:39:24,622
+E o Dantas deu informações íntimas sobre qual o
+
+1475
+00:39:24,632 --> 00:39:27,142
+vestuário que ele usa da da Eu eu achei,
+
+1476
+00:39:27,152 --> 00:39:28,271
+eu falei Much Information.
+
+1477
+00:39:28,281 --> 00:39:31,092
+Então, eu eu fiquei até com medo se eu deveria colocar essa como última pergunta,
+
+1478
+00:39:31,102 --> 00:39:35,082
+mas eu queria saber o que que o Dantas guarda no no.
+
+1479
+00:39:35,092 --> 00:39:40,352
+E o que você guarda no a minha é simples é, eu tô em processo de mudança.
+
+1480
+00:39:40,362 --> 00:39:42,302
+Então eu é eu tô me desfazendo de algumas
+
+1481
+00:39:42,312 --> 00:39:44,862
+coisas lá e tô acho que quatro meses alugando.
+
+1482
+00:39:44,872 --> 00:39:45,261
+Ufa!
+
+1483
+00:39:45,271 --> 00:39:28,275
+Menos a pergunta o vestuário que ele usa da da Eu eu achei, eu falei Much Information.
+
+1484
+00:39:28,285 --> 00:39:31,085
+Então, eu eu fiquei até com medo, se eu deveria colocar essa como última pergunta,
+
+1485
+00:39:31,095 --> 00:39:35,085
+mas eu queria saber o que que o Dantas guarda no no.
+
+1486
+00:39:35,095 --> 00:39:38,946
+E o que você guarda no a minha é simples,
+
+1487
+00:39:38,956 --> 00:39:41,506
+é eu Tô em processo de mudança Então eu é eu tô me
+
+1488
+00:39:41,516 --> 00:39:44,906
+desfazendo de algumas coisas lá e tô acho que quatro meses alugando.
+
+1489
+00:39:44,916 --> 00:39:49,761
+-- Ufa! Menos a pergunta
+-- passou aqui, Cara, eu adoro arquitetura!
+
+1490
+00:39:46,676 --> 00:39:50,437
+passou aqui, Cara, eu adoro arquitetura! Eu tive.
+
+1491
+00:39:50,447 --> 00:39:55,988
+Eu tive é, fui casado com uma arquiteta, é talentosíssima e tive é,
+
+1492
+00:39:55,998 --> 00:40:00,278
+sou sua e cê sabe que eu comecei a acumular cadeiras e aí eu criei um hábito.
+
+1493
+00:40:00,288 --> 00:40:02,417
+Eu já mudei de casa quatro, cinco vezes, não?
+
+1494
+00:40:02,427 --> 00:40:06,377
+E aí eu comecei a garimpar, garimpar móvel antigo, garimpar móvel, modernista, né,
+
+1495
+00:40:06,387 --> 00:40:10,278
+Enfim, peças de jacarandá e tal imobiliário brasileiro!
+
+1496
+00:40:10,288 --> 00:40:12,218
+Aí foi além de é incrível, né?
+
+1497
+00:40:12,228 --> 00:39:50,454
+Cê tem assim, uma produção de imobiliária ali década de sessenta, Eu tive.
+
+1498
+00:39:50,464 --> 00:39:56,003
+Eu tive é, fui casado com uma arquiteta, é talentosíssima e tive é,
+
+1499
+00:39:56,013 --> 00:40:00,273
+sou sua e cê sabe que eu comecei a acumular cadeiras e aí eu criei um hábito.
+
+1500
+00:40:00,283 --> 00:40:02,424
+Eu já mudei de casa quatro, cinco vezes, não?
+
+1501
+00:40:02,434 --> 00:40:06,384
+E aí eu comecei a garimpar, garimpar móvel antigo, garimpar móvel, modernista, né,
+
+1502
+00:40:06,394 --> 00:40:10,283
+Enfim, peças de jacarandá e tal imobiliário brasileiro!
+
+1503
+00:40:10,293 --> 00:40:12,224
+Aí foi além de é incrível, né?
+
+1504
+00:40:12,233 --> 00:40:16,154
+Cê tem assim, uma produção de imobiliária ali década de sessenta, né?
+
+1505
+00:40:16,164 --> 00:40:19,664
+É gozado que assim eu eu tenho um cara, que é uma fase, é um fazendeiro em Goiás,
+
+1506
+00:40:19,674 --> 00:40:23,073
+perto de Brasília, porque muitos desses imobiliários era da foi?
+
+1507
+00:40:23,083 --> 00:40:27,533
+Era, né? É mobiliário do do, do dos equipamentos do governo em Brasília.
+
+1508
+00:40:27,543 --> 00:40:30,333
+É como em Brasília, né? No final da década de sessenta, alice, né?
+
+1509
+00:40:30,343 --> 00:40:32,694
+Final de cinquenta! Então é dessa época.
+
+1510
+00:40:32,704 --> 00:40:36,894
+Então tem muito mobiliário incrível na mão de restauradores
+
+1511
+00:40:36,904 --> 00:40:39,053
+ou de quem acumulou isso em galpões e tal.
+
+1512
+00:40:39,063 --> 00:40:16,622
+Não sei o que aos redores de Brasília né? É gozado?
+
+1513
+00:40:16,632 --> 00:40:19,662
+É que assim eu eu tenho um cara que é uma fase, um fazendeiro em Goiás,
+
+1514
+00:40:19,672 --> 00:40:23,082
+perto de Brasília, porque muito desses mobiliários era da foi?
+
+1515
+00:40:23,092 --> 00:40:24,562
+Era, né?
+
+1516
+00:40:24,572 --> 00:40:27,582
+É mobiliário do do do dos equipamentos, do governo em Brasília, até,
+
+1517
+00:40:27,592 --> 00:40:28,181
+como em Brasília, né?
+
+1518
+00:40:28,191 --> 00:40:31,052
+No final da década de sessenta. Alice, né. Final de cinquenta!
+
+1519
+00:40:31,062 --> 00:40:32,701
+E então, é dessa época!
+
+1520
+00:40:32,711 --> 00:40:36,892
+Então tem muito mobiliário incrível na mão de restauradores
+
+1521
+00:40:36,902 --> 00:40:39,052
+ou de quem acumulou isso em galpões e tal.
+
+1522
+00:40:39,062 --> 00:40:40,481
+Não sei o que aos redores de Brasília
+
+1523
+00:40:40,780 --> 00:40:43,709
+E aí eu fui mudando de casa e eu fui me apaixonando por comprar móvel.
+
+1524
+00:40:43,719 --> 00:40:48,310
+Então eu tenho um espaço e tenho um tanto de móvel bonito lá, bacana que sendo mais,
+
+1525
+00:40:48,320 --> 00:40:48,750
+né?
+
+1526
+00:40:48,760 --> 00:40:51,949
+TÔ tô tá ali, tô feliz! Enfim, é é.
+
+1527
+00:40:51,959 --> 00:40:54,030
+Tenho uma vínculo afetivo até outro dia,
+
+1528
+00:40:54,040 --> 00:40:58,070
+um amigo foi mudar e falou assim posso passar lá pegar umas cadeiras.
+
+1529
+00:40:58,080 --> 00:40:59,189
+Então, pronto,
+
+1530
+00:40:59,199 --> 00:40:43,709
+chega E aí eu fui mudando de casa e eu fui me apaixono por comprar móvel,
+
+1531
+00:40:43,719 --> 00:40:48,750
+então eu tenho um espaço e tenho um tanto de móvel bonito lá bacana que sendo mais, né?
+
+1532
+00:40:48,760 --> 00:40:51,949
+TÔ tô tá ali, tô feliz! Enfim! É é.
+
+1533
+00:40:51,959 --> 00:40:54,510
+Tenho uma vínculo afetivo até outro dia um amigo foi
+
+1534
+00:40:54,520 --> 00:40:57,989
+mudar e falou assim posso passar lá pegar umas cadeiras.
+
+1535
+00:40:58,000 --> 00:41:00,760
+-- Então, pronto chega
+-- legal!
+
+1536
+00:41:00,770 --> 00:41:04,750
+Eu queria agradecer o Thiago Ato Tá o link na descrição do episódio no YouTube,
+
+1537
+00:41:04,760 --> 00:41:00,760
+no Spotify ou no seu Ouvidor de podcast legal,
+
+1538
+00:41:00,770 --> 00:41:04,750
+eu queria agradecer o Thiago a goto tá o link na descrição do episódio no YouTube,
+
+1539
+00:41:04,760 --> 00:41:08,889
+no Spotify ou no seu ouvidor de podcasts preferidos e até a próxima.
+
+1540
+00:41:07,899 --> 00:41:08,929
+e até a próxima,
+
+1541
+00:41:09,560 --> 00:41:10,229
+Muito
+
+1542
+00:41:18,330 --> 00:41:23,479
+Este podcast foi editado por radio fobia, podcast e multimídia.
+
+1543
+00:41:18,350 --> 00:41:23,459
+Este podcast foi editado por radio Fobia, podcast e multimídia.
