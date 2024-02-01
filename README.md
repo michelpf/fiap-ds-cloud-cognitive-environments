@@ -30,13 +30,13 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 5. Amazon Rekognition 
 6. Amazon Comprehend
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-1-plataforma-aws/aula-1-plataforma-aws.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-1-introducao/aula-1-introducao.ipynb) 
 
 ### Desafio
 
 1. Face match
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-1-plataforma-aws/desafio-1/aula-1-desafio-1-solucao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-1-introducao/desafio-1/aula-1-desafio-1-solucao.ipynb)
 
 
 ## Aula 2: Imagem, áudio e transcrição
@@ -47,13 +47,13 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 4. Amazon Rekognition Imagem Moderation
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-plataforma-aws-azure/aula-2-plataforma-aws-azure.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-audio-imagem-transcricao/aula-2-audio-imagem-transcricao.ipynb) 
 
 ### Desafio
 
 1. Employee attrition
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-plataforma-aws-azure/desafio-1/aula-2-desafio-1-solucao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-audio-imagem-transcricao/desafio-1/aula-2-desafio-1-solucao.ipynb)
 
 ## Aula 3: LLMs com AWS e OpenAI
 
@@ -61,7 +61,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 2. Introdução a OpenAI
 3. Introdução a Langchain
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-plataforma-azure-openai-langchain/aula-3-plataforma-azure-openai-langchain.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-3-llms-aws-openai/aula-3-llms-aws-openai.ipynb) 
 
 
 ## Aula 4: LLMs com Langchain
@@ -78,11 +78,11 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 1. Análise de Avaliações
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
 
 2. Agente autônomo para dados médicos
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
 
 ## Capstones
 
