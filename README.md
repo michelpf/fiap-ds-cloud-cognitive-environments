@@ -34,7 +34,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 ### Desafio
 
-1. Face match
+Face match
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-1-introducao/desafio-1/aula-1-desafio-1-solucao.ipynb)
 
@@ -71,10 +71,10 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 ### Desafio
 
-1. Análise de Avaliações
+Análise de Avaliações
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
 
-2. Agente autônomo para dados médicos
+Agente autônomo para dados médicos
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
