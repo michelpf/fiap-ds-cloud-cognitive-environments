@@ -49,11 +49,6 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-audio-imagem-transcricao/aula-2-audio-imagem-transcricao.ipynb) 
 
-### Desafio
-
-1. Employee attrition
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-2-audio-imagem-transcricao/desafio-1/aula-2-desafio-1-solucao.ipynb)
 
 ## Aula 3: LLMs com AWS e OpenAI
 
@@ -83,9 +78,3 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 2. Agente autônomo para dados médicos
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-langchain/desafio-1/aula-4-desafio-1-solucao.ipynb)
-
-## Capstones
-
-Projetos de conclusão da disciplina aplicados.
-
-1. [Análise de Imagens Médicas](https://github.com/michelpf/fiap-ml-visao-computacional-analise-imagens-medicas)
