@@ -67,7 +67,7 @@ Tanto o [Google Colab](https://colab.research.google.com/) ou [Kaggle](https://w
 4. Dados externos
 5. Agentes
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-plataforma-openai-langchain/aula-4-langchain.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ds-cloud-cognitive-environments/blob/master/aula-4-langchain/aula-4-langchain.ipynb) 
 
 ### Desafio
 
